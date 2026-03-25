@@ -34,3 +34,11 @@ let actual = max - 13;
 let percentage = actual / max;
 console.log(percentage);
 
+const button = document.querySelector("button");
+let count = 0;
+
+button.addEventListener("click", (event) => {
+      count++;
+    button.textContent = `Click count: ${count}`;
+});
+
