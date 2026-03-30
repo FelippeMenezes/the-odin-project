@@ -5,10 +5,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Translate border-left-width to borderLeftWidth</title>
     <script src="test.js"></script>
+        <style>
+        body {
+            background-color: black;
+            color: #00ff00;
+            font-family: monospace;
+        }
+
+        .code-box {
+            background-color: #111;
+            border: 1px solid #00ff00;
+            padding: 15px;
+            margin-top: 20px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+
+        pre {
+            margin: 0;
+        }
+    </style>
 </head>
 <body>
+    <h1>Translate My-shorT--striNg to myShortString</h1>
+
+    <h2><strong>In this exercise :</strong></h2>
+
+    <ol>
+        <li>I selected the content inside the tag with id "str".</li>
+        <li>Using the "split" method, I removed the "-" characters.</li>
+        <li>With the "filter" method, I removed empty items "" using the "eraseEmptyItem" function.</li>
+        <li>I executed a "for" loop to iterate over all items in the created array.</li>
+        <li>For the first item, I converted all characters to lowercase.</li>
+        <li>Finally, I used the "join" method to concatenate all items into a single string in camelCase format.</li>
+        <li>The result was then displayed in the <strong>h3</strong> tag and also logged in the console.</li>
+    </ol>
+
+    <div class="code-box">
+        <pre id="codeBlock"></pre>
+    </div>
+
+    <p id="str">My-shorT--striNg</p>
+
+    <h3>Result : </h3>
+</h2>
     <script>
-        let str = "My-shorT--striNg";
+        let str = document.getElementById('str').textContent;
 
         function eraseEmptyItem(i) {
             return i !== '';
@@ -27,6 +69,39 @@
         }
 
         console.log(camelize(str));
+
+        document.querySelector('h3').textContent = "Result : " + camelize(str);
+
+        const code = `
+        function camelize(str) {
+
+            // Split the string into parts using "-" as separator
+            let partsArray = str.split('-')
+
+                // Remove empty items caused by consecutive dashes "--"
+                .filter(i => i !== '');
+
+            // Iterate through each part of the array
+            for (let i = 0; i < partsArray.length; i++) {
+
+                if (i === 0) {
+                    // Convert the first word entirely to lowercase
+                    partsArray[i] = partsArray[i].toLowerCase();
+
+                } else {
+                    // Capitalize the first letter of the word
+                    // and convert the rest of the characters to lowercase
+                    partsArray[i] = partsArray[i].charAt(0).toUpperCase() +
+                                    partsArray[i].slice(1).toLowerCase();
+                }
+            }
+
+            // Join all parts together into a single camelCase string
+            return partsArray.join('');
+        }
+        `;
+
+        document.getElementById('codeBlock').textContent = code;
     </script>
 </body>
 </html>
