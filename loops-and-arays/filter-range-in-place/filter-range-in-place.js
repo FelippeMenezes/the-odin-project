@@ -5,4 +5,7 @@ function filterRangeInPlace(arr, a, b) {
             i--;
         }
     }
+    alert(arr);
 }
+
+filterRangeInPlace([5, 3, 8, 1], 1, 4);
