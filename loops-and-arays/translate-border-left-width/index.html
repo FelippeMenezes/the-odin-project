@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translate border-left-width to borderLeftWidth</title>
+    <script src="test.js"></script>
+</head>
+<body>
+    <script>
+        let str = "My-shorT--striNg";
+
+        function eraseEmptyItem(i) {
+            return i !== '';
+        }
+
+        function camelize(str) {
+            let partsArray =  str.split('-').filter(eraseEmptyItem);
+            for (let i = 0; i < partsArray.length; i++) {
+                if (i === 0) {
+                    partsArray[i] = partsArray[i].toLowerCase();
+                } else {
+                    partsArray[i] = partsArray[i].charAt(0).toUpperCase() + partsArray[i].slice(1).toLowerCase();
+                }
+            }
+            return partsArray.join('');
+        }
+
+        console.log(camelize(str));
+    </script>
+</body>
+</html>
