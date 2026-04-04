@@ -22,10 +22,49 @@ div.appendChild(h1);
 div.appendChild(p2);
 document.body.appendChild(div);
 
-const btn = document.querySelector("#btn");
+const btnInline = document.createElement("button");
+btnInline.textContent = "Click Me";
+btnInline.setAttribute("onclick", "alert('Hello World')");
+document.body.appendChild(btnInline);
+
+const btn = document.createElement("button");
+btn.id = "btn";
+btn.textContent = "Click Me";
+document.body.appendChild(btn);
+
+const btn2 = document.createElement("button");
+btn2.id = "btn2";
+btn2.textContent = "Click Me Too";
+document.body.appendChild(btn2);
+
+const container = document.createElement("div");
+container.id = "container";
+document.body.appendChild(container);
+
+const one = document.createElement("button");
+one.id = "one";
+one.textContent = "One";
+
+const two = document.createElement("button");
+two.id = "two";
+two.textContent = "Two";
+
+const three = document.createElement("button");
+three.id = "three";
+three.textContent = "Three";
+
+container.appendChild(one);
+container.appendChild(two);
+container.appendChild(three);
+
+const link = document.createElement("a");
+link.href = "https://www.javascripttutorial.net/";
+link.textContent = "JS Tutorial";
+document.body.appendChild(link);
+
+
 btn.onclick = () => alert("Hello World");
 
-const btn2 = document.querySelector("#btn2");
 btn2.addEventListener("click", () => {
   alert("Hello World");
 });
@@ -42,20 +81,15 @@ btn2.addEventListener("click", function (e) {
   e.target.style.background = "blue";
 });
 
-// buttons is a node list. It looks and acts much like an array.
 const buttons = document.querySelectorAll("button");
 
-// we use the .forEach method to iterate through each button
 buttons.forEach((button) => {
-  // and for each one we add a 'click' listener
   button.addEventListener("click", () => {
     alert(button.id);
   });
 });
 
-let link = document.querySelector('a');
-
-link.addEventListener('click',function(event) {
-    console.log('clicked');
-    // event.preventDefault();
+link.addEventListener("click", function (event) {
+  console.log("clicked");
+  // event.preventDefault();
 });
