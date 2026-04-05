@@ -117,3 +117,5 @@ const guessField = document.querySelector(".guessField");
 const resetParas = document.querySelectorAll(".resultParas p");
 
 guessSubmit.addEventListener("click", checkGuess);
+
+guessField.addEventListener("keydown", e => e.key === "Enter" && checkGuess());
