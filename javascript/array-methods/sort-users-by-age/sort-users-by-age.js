@@ -4,8 +4,11 @@ let mary = { name: "Mary", age: 28 };
 
 let arr = [ pete, john, mary ];
 
-function sortByAge(users) {
-    users.sort( (a, b) => a.age - b.age );
+function sortByAge(array) {
+    function compareNumbers( a, b ) {
+        return a.age - b.age;
+    };
+    return array.sort(compareNumbers);
 };
 
 sortByAge(arr);
