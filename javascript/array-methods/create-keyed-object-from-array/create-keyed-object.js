@@ -4,23 +4,23 @@ let users = [
   {id: 'pete', name: "Pete Peterson", age: 31},
 ];
 
-// function groupById(usersArray) {
+// function groupById(array) {
 //   let object = {};
-
-//   for (let i = 0; i < usersArray.length; i++) {
-//     object[usersArray[i].id] = usersArray[i];
+//   for (let i = 0; i < array.length; i++) {
+//     object[array[i].id] = array[i];
 //   }
-//   return object
-// };
+//   return object;
+// }
 
-function groupById(usersArray) {
-  return usersArray.reduce((object, user) => {
+function groupById(array) {
+  return array.reduce((object, user) => {
     object[user.id] = user;
     return object;
   }, {});
 };
 
 let usersById = groupById(users);
+console.log(usersById);
 
 /*
 // after the call we should have:
