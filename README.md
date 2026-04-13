@@ -35,20 +35,6 @@ Deep dive into backend and fullstack development using Ruby and Ruby on Rails, i
 
 ---
 
-## 💼 Why This Matters
-
-This repository is not just coursework — it reflects a **deliberate investment** in engineering fundamentals by a developer already working in the industry.
-
-| What it shows | Why recruiters care |
-|---------------|---------------------|
-| 📐 Structured learning | Discipline and long-term thinking |
-| 🔁 Consistent progress | Ability to follow through |
-| 🛠️ Real projects | Hands-on problem solving |
-| 📖 Clean documentation | Communication and professionalism |
-| 🧱 Fundamentals first | Writing code that scales |
-
----
-
 ## 🛠️ Tech Stack Covered
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
