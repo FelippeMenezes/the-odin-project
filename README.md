@@ -9,16 +9,6 @@
 
 ---
 
-## 📁 Repository Structure
-
-```
-the-odin-project/
-├── 📂 foundations/          # Completed – Web Development Foundations
-└── 📂 ruby-on-rails/        # In Progress – Full Stack Ruby on Rails
-```
-
----
-
 ## 🗺️ Learning Paths
 
 ### ✅ Foundations Course — `foundations/`
