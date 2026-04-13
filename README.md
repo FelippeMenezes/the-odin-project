@@ -56,11 +56,6 @@ Deep dive into backend and fullstack development using Ruby and Ruby on Rails, i
 
 ---
 
-## 🎯 End Goal
-
-Become a confident **Full Stack Engineer** with deep knowledge of both front-end and back-end systems, capable of building, shipping and maintaining production-grade applications.
-
----
 
 ## 🤝 Acknowledgements
 
