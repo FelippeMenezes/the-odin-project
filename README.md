@@ -45,20 +45,7 @@ Deep dive into backend and fullstack development using Ruby and Ruby on Rails, i
 
 ➡️ [View Repository](./ruby-on-rails)
 
-
 ---
-
-## 📈 Overall Progress
-
-| Path | Status | Progress |
-|------|--------|----------|
-| Foundations | ✅ Completed | ████████████ 100% |
-| Full Stack Ruby on Rails | 🔄 In Progress | █░░░░░░░░░░░ 10% |
-
----
-
-
-## 🤝 Acknowledgements
 
 Built following the open-source curriculum from  
 👉 https://www.theodinproject.com/
