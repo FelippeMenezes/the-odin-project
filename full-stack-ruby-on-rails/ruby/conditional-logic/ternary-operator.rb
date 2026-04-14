@@ -12,4 +12,4 @@ else
   response = "You're adult."
 end
 
-puts response #=> "You're all grown up."
+puts response
