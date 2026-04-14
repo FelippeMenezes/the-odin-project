@@ -43,7 +43,7 @@ Deep dive into backend and fullstack development using Ruby and Ruby on Rails, i
 
 **Key areas:** Ruby · Rails · SQL · MVC · REST APIs · Authentication · Deployment
 
-➡️ [View Repository](./ruby-on-rails)
+➡️ [View Repository](./full-stack-ruby-on-rails)
 
 ---
 
