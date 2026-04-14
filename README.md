@@ -24,7 +24,7 @@ A comprehensive introduction to web development, covering everything from how th
 ---
 
 ### 🔄 Full Stack Ruby on Rails — `ruby-on-rails/`
-![Progress](https://img.shields.io/badge/Progress-10%25-orange)
+![Progress](https://img.shields.io/badge/Progress-14%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Deep dive into backend and fullstack development using Ruby and Ruby on Rails, including databases, APIs, authentication and deployment.
