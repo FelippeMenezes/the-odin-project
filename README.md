@@ -1,6 +1,6 @@
 # 🧠 The Odin Project – Full Stack Development Journey
 
-![Overall Progress](https://img.shields.io/badge/Overall%20Progress-63.5%25-yellow)
+![Overall Progress](https://img.shields.io/badge/Overall%20Progress-58.5%25-yellow)
 ![Paths](https://img.shields.io/badge/Paths-2-blue)
 ![Goal](https://img.shields.io/badge/Goal-Full%20Stack%20Engineer-purple)
 ![Stack](https://img.shields.io/badge/Stack-Ruby%20on%20Rails%20%7C%20JavaScript-red)
@@ -24,7 +24,7 @@ A comprehensive introduction to web development, covering everything from how th
 ---
 
 ### 🔄 Full Stack Ruby on Rails — `ruby-on-rails/`
-![Progress](https://img.shields.io/badge/Progress-14%25-orange)
+![Progress](https://img.shields.io/badge/Progress-17%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Deep dive into backend and fullstack development using Ruby and Ruby on Rails, including databases, APIs, authentication and deployment.
