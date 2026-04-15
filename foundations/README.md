@@ -136,7 +136,7 @@ Repository containing projects and exercises built during the **Foundations Cour
 ## 🤝 Acknowledgements
 
 This project is part of the curriculum from  
-👉 https://www.theodinproject.com/
+https://www.theodinproject.com/
 
 ---
 
