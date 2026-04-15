@@ -1,6 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-
-![Progress](https://img.shields.io/badge/Progress-17%25-orange)
+![Progress](https://img.shields.io/badge/Progress-19%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -11,8 +10,8 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 ## 📊 Course Status
 
 * ✅ **Completed: Introduction**
-* 🔄 **In Progress: Basic Ruby**
-* ⏳ **Pending: Databases, Advanced HTML & CSS, JavaScript, Ruby on Rails and more**
+* 🔄 **In Progress: Basic Ruby** (up to Arrays)
+* ⏳ **Pending: Intermediate HTML & CSS, Databases, Ruby on Rails, Advanced HTML & CSS, JavaScript, React, Getting Hired**
 * 🧠 Actively building a solid foundation for fullstack Ruby development
 
 ---
@@ -41,6 +40,36 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 * Local, global, instance and class variable types
 * Understanding variable scope and best practices
 
+#### 🖨️ Input and Output ✅
+* Reading user input with `gets` and `gets.chomp`
+* Printing output with `puts`, `print`, and `p`
+* Understanding the difference between return value and output
+* String interpolation and formatting
+
+#### 🔀 Conditional Logic ✅
+* `if`, `elsif`, `else`, and `unless` statements
+* Ternary operator and one-line conditionals
+* `case/when` as a cleaner alternative to long if-chains
+* Truthy and falsy values in Ruby (`nil` and `false` only)
+
+#### 🔁 Loops ✅
+* `loop`, `while`, `until`, `for`, and `times`
+* `break`, `next`, and loop control
+* Understanding when to use each loop type
+* Ruby's preference for iterators over traditional loops
+
+#### 🐛 Debugging ✅ *(completed in Foundations)*
+* Reading and interpreting error messages
+* Using `p` and `puts` for quick inspection
+* Introduction to `pry` and `binding.pry`
+* Stack traces and identifying the source of bugs
+
+#### 🗂️ Arrays ✅
+* Creating, accessing, and modifying arrays
+* Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `compact`
+* Iterating with `each`, `map`, `select`, and `reject`
+* Multi-dimensional arrays and practical use cases
+
 ---
 
 ## 🛠️ Projects
@@ -54,7 +83,7 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 ## 📈 What This Repository Demonstrates
 
 * Commitment to continuous and structured learning
-* Understanding of Ruby's core data types and variables
+* Understanding of Ruby's core data types, variables, I/O, conditionals, loops, and arrays
 * Hands-on approach to building real programming foundations
 * Progression from web fundamentals to backend development
 
@@ -62,10 +91,11 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 
 ## 🎯 Next Steps
 
-* Continue **Basic Ruby** (Conditionals, Loops, Arrays, Hashes, Methods, OOP)
-* **Databases** (SQL, relational thinking, Active Record)
-* **Advanced HTML & CSS**
-* **JavaScript** (ES6+, Async, APIs)
+* Continue **Basic Ruby** (Hashes, Methods, Basic & Predicate Enumerables, Nested Collections)
+* **Basic Ruby Projects** (Caesar Cipher, Sub Strings, Stock Picker, Bubble Sort)
+* **OOP in Ruby** (classes, inheritance, modules)
+* **Testing with RSpec** and TDD
+* **Databases** (SQL, Active Record)
 * **Ruby on Rails** (MVC, routing, authentication, deployment)
 
 ---
@@ -80,4 +110,5 @@ This project is part of the curriculum from
 ## 📌 Notes
 
 This repository represents my journey into fullstack development with **Ruby on Rails**, building on the foundations already established in the Foundations Course.
+
 It will continue to evolve as each new concept is learned and each new project is completed.
