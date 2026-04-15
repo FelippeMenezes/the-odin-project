@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-19%25-orange)
+![Progress](https://img.shields.io/badge/Progress-17%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -58,12 +58,6 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 * Understanding when to use each loop type
 * Ruby's preference for iterators over traditional loops
 
-#### 🐛 Debugging ✅ *(completed in Foundations)*
-* Reading and interpreting error messages
-* Using `p` and `puts` for quick inspection
-* Introduction to `pry` and `binding.pry`
-* Stack traces and identifying the source of bugs
-
 #### 🗂️ Arrays ✅
 * Creating, accessing, and modifying arrays
 * Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `compact`
@@ -91,7 +85,7 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 
 ## 🎯 Next Steps
 
-* Continue **Basic Ruby** (Hashes, Methods, Basic & Predicate Enumerables, Nested Collections)
+* Continue **Basic Ruby** (Hashes, Methods, Debugging, Basic & Predicate Enumerables, Nested Collections)
 * **Basic Ruby Projects** (Caesar Cipher, Sub Strings, Stock Picker, Bubble Sort)
 * **OOP in Ruby** (classes, inheritance, modules)
 * **Testing with RSpec** and TDD
