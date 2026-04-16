@@ -7,39 +7,54 @@
 
 ### 💎 Basic Ruby *(In Progress)*
 
-#### 🔢 Basic Data Types ✅
+<details>
+<summary> Basic Data Types </summary>
+
 * Strings, Integers, Floats and Booleans
 * Understanding how Ruby handles different types of data
 * Type conversion and common methods per type
 * Differences between Ruby and other languages in type handling
+</details>
 
-#### 📦 Variables ✅
+<details>
+<summary> Variables </summary>
+  
 * Declaring and assigning variables in Ruby
 * Variable naming conventions (snake_case)
 * Local, global, instance and class variable types
 * Understanding variable scope and best practices
+</details>
 
-#### 🖨️ Input and Output ✅
+<details>
+<summary> Input and Output </summary>
+  
 * Reading user input with `gets` and `gets.chomp`
 * Printing output with `puts`, `print`, and `p`
 * Understanding the difference between return value and output
 * String interpolation and formatting
+</details>
 
-#### 🔀 Conditional Logic ✅
+<details>
+<summary> Conditional Logic </summary>
+  
 * `if`, `elsif`, `else`, and `unless` statements
 * Ternary operator and one-line conditionals
 * `case/when` as a cleaner alternative to long if-chains
 * Truthy and falsy values in Ruby (`nil` and `false` only)
+</details>
 
-#### 🔁 Loops ✅
+<details>
+<summary> Loops </summary>
 * `loop`, `while`, `until`, `for`, and `times`
 * `break`, `next`, and loop control
 * Understanding when to use each loop type
 * Ruby's preference for iterators over traditional loops
+</details>
 
-#### 🗂️ Arrays ✅
+<details>
+<summary> Arrays </summary>
 * Creating, accessing, and modifying arrays
 * Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `compact`
 * Iterating with `each`, `map`, `select`, and `reject`
 * Multi-dimensional arrays and practical use cases
-
+</details>
