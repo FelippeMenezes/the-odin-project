@@ -17,7 +17,13 @@
 
 A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
 
-**Key areas:** HTML · CSS · Flexbox · JavaScript · DOM Manipulation · Git · Clean Code
+* HTML 
+* CSS 
+* Flexbox 
+* JavaScript 
+* DOM Manipulation 
+* Git 
+* Clean Code
 
 ➡️ [View Repository](./foundations)
 
@@ -29,9 +35,20 @@ A comprehensive introduction to web development, covering everything from how th
 
 Deep dive into backend and fullstack development using Ruby and Ruby on Rails, including databases, APIs, authentication and deployment.
 
-**Key areas:** Ruby · Rails · SQL · MVC · REST APIs · Authentication · Deployment
+* Ruby 
+* Rails 
+* SQL 
+* MVC 
+* REST APIs 
+* Authentication 
+* Deployment
 
 ➡️ [View Repository](./full-stack-ruby-on-rails)
+
+---
+
+Built following the open-source curriculum from  
+👉 https://www.theodinproject.com/
 
 ---
 
@@ -44,8 +61,3 @@ Deep dive into backend and fullstack development using Ruby and Ruby on Rails, i
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-
----
-
-Built following the open-source curriculum from  
-👉 https://www.theodinproject.com/
