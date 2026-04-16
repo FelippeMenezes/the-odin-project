@@ -5,10 +5,6 @@
 
 ---
 
-Repository containing projects and exercises built during the **Full Stack Ruby on Rails** path from [The Odin Project](https://www.theodinproject.com/), focused on building professional fullstack applications with **Ruby on Rails**.
-
----
-
 ### 💎 Basic Ruby *(In Progress)*
 
 #### 🔢 Basic Data Types ✅
@@ -47,9 +43,3 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 * Iterating with `each`, `map`, `select`, and `reject`
 * Multi-dimensional arrays and practical use cases
 
----
-
-## 🤝 Acknowledgements
-
-This project is part of the curriculum from
-👉 https://www.theodinproject.com/
