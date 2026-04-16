@@ -154,3 +154,49 @@
   * Logical thinking
   * Testing hypotheses
 
+#### 💻 Projects
+
+ <details>
+ <summary> 🍲 Recipes </summary>
+  
+  🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) 
+  
+  ➡️ [Recipes Repository](https://github.com/FelippeMenezes/recipes-top)
+  
+ </details>
+
+ <details>
+ <summary> 📃 Landing Page </summary>
+  
+ 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/)
+ 
+ ➡️ [Repository](https://github.com/FelippeMenezes/landing-page-top)
+    
+ </details>
+ 
+ <details>
+ <summary> ✊ Rock, 🤚 Paper, ✌️ Scissors </summary>
+  
+ 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) 
+ 
+ ➡️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+     
+ </details>
+
+ <details>
+ <summary> 🍲 Etch-a-Sketc </summary>
+  
+  🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) 
+ 
+  ➡️ [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
+
+ </details>
+
+ <details>
+ <summary> 🖩 Calculator </summary>
+  
+  🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) 
+ 
+  ➡️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+     
+ </details>
