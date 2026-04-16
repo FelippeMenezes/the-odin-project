@@ -19,6 +19,8 @@
 
 > Structured, project-based learning path toward becoming a **Full Stack Engineer**, combining industry experience with deliberate study of computer science and software engineering fundamentals.
 
+➡️ [View Repository](./foundations)
+
 ---
 
 ## 🗺️ Learning Paths
@@ -37,7 +39,22 @@ A comprehensive introduction to web development, covering everything from how th
 * Git 
 * Clean Code
 
-➡️ [View Repository](./foundations)
+#### 💻 Projects
+ * [Recipes](https://felippemenezes.github.io/recipes-top/)
+ 
+      ➡️ [Repository](https://github.com/FelippeMenezes/recipes-top)
+  
+ * [Landing Page](https://felippemenezes.github.io/landing-page-top/)
+ 
+      ➡️ [Repository](https://github.com/FelippeMenezes/landing-page-top)
+  
+ * [Rock, Paper, Scissors](https://felippemenezes.github.io/rock-paper-scissors/) 
+ 
+      ➡️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+  
+ * [Etch-a-Sketc](https://felippemenezes.github.io/project-etch-a-sketch/) 
+ 
+      ➡️ [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
 
 ---
 
