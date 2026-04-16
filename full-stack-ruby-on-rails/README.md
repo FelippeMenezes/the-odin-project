@@ -7,25 +7,6 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 
 ---
 
-## 📊 Course Status
-
-* ✅ **Completed: Introduction**
-* 🔄 **In Progress: Basic Ruby** (up to Arrays)
-* ⏳ **Pending: Intermediate HTML & CSS, Databases, Ruby on Rails, Advanced HTML & CSS, JavaScript, React, Getting Hired**
-* 🧠 Actively building a solid foundation for fullstack Ruby development
-
----
-
-## 🧠 What I Learned
-
-### 🌐 Introduction
-* Overview of the Full Stack Ruby on Rails path
-* Setting up the development environment
-* Understanding the learning roadmap ahead
-* Revisiting problem-solving strategies and developer mindset
-
----
-
 ### 💎 Basic Ruby *(In Progress)*
 
 #### 🔢 Basic Data Types ✅
