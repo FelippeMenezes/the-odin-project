@@ -17,12 +17,17 @@
 
 A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
 
+* Linux
+* Git 
 * HTML 
 * CSS 
 * Flexbox 
 * JavaScript 
 * DOM Manipulation 
-* Git 
+* Debugging
+* Developer Tools
+* Understanding Errors
+* Troubleshooting Strategy
 * Clean Code
 
 <details>
