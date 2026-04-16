@@ -17,8 +17,7 @@
  * `clone`, `add`, `commit`, `push`, `pull`
  * Branching basics
  * Writing meaningful commit messages
-* Installing and using Node.js
-* Using browser DevTools for debugging
+ * Installing and using Node.js
 
 ---
 
@@ -63,10 +62,14 @@
 
 ---
 
+### 🐛 Debugging:
+* Using browser DevTools for debugging
+
+---
+
 ### 🧩 DOM Manipulation
 
 * Selecting elements (`querySelector`)
 * Event listeners (click, input, etc.)
 * Updating the UI dynamically
 * Handling user interactions
-* Debugging using browser tools
