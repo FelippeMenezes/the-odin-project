@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
+---
+
 Repository containing projects and exercises built during the **Full Stack Ruby on Rails** path from [The Odin Project](https://www.theodinproject.com/), focused on building professional fullstack applications with **Ruby on Rails**.
 
 ---
