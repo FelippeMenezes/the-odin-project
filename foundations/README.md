@@ -154,6 +154,8 @@
   * Logical thinking
   * Testing hypotheses
 
+ ---
+
 ### 💻 Projects
 
    <details>
