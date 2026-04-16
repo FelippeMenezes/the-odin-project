@@ -10,7 +10,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
-# 🧠 The Odin Project – Full Stack Development Journey
+# 🧙‍♂️ The Odin Project – Full Stack Development Journey
 
 ![Overall Progress](https://img.shields.io/badge/Overall%20Progress-58.5%25-yellow)
 ![Paths](https://img.shields.io/badge/Paths-2-blue)
