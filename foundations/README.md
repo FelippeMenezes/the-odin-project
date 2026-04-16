@@ -67,5 +67,3 @@
 * Updating the UI dynamically
 * Handling user interactions
 * Debugging using browser tools
-
----
