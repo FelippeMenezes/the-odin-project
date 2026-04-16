@@ -56,7 +56,7 @@
 <summary> Arrays </summary>
   
 * Creating, accessing, and modifying arrays
-* Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `compact`
+* Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `shuffle`
 * Iterating with `each`, `map`, `select`, and `reject`
 * Multi-dimensional arrays and practical use cases
 </details>
