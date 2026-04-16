@@ -45,6 +45,7 @@
 
 <details>
 <summary> Loops </summary>
+  
 * `loop`, `while`, `until`, `for`, and `times`
 * `break`, `next`, and loop control
 * Understanding when to use each loop type
@@ -53,6 +54,7 @@
 
 <details>
 <summary> Arrays </summary>
+  
 * Creating, accessing, and modifying arrays
 * Common methods: `push`, `pop`, `shift`, `unshift`, `flatten`, `compact`
 * Iterating with `each`, `map`, `select`, and `reject`
