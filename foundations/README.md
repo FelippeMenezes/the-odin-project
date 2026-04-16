@@ -154,7 +154,7 @@
   * Logical thinking
   * Testing hypotheses
 
-#### 💻 Projects
+### 💻 Projects
 
  <details>
  <summary> 🍲 Recipes </summary>
