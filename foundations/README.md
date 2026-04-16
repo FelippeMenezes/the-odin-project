@@ -10,10 +10,13 @@
 
 * Linux Command Line (terminal navigation and commands)
 * Text editors (VS Code)
-* Git & GitHub:
-  * `clone`, `add`, `commit`, `push`, `pull`
-  * Branching basics
-  * Writing meaningful commit messages
+
+---
+
+### 🦑 Git & GitHub:
+ * `clone`, `add`, `commit`, `push`, `pull`
+ * Branching basics
+ * Writing meaningful commit messages
 * Installing and using Node.js
 * Using browser DevTools for debugging
 
