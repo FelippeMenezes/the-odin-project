@@ -10,7 +10,10 @@
 <details>
 <summary> Basic Data Types </summary>
 
-* Strings, Integers, Floats and Booleans
+* Strings
+* Integers
+* Floats
+* Booleans
 * Understanding how Ruby handles different types of data
 * Type conversion and common methods per type
 * Differences between Ruby and other languages in type handling
@@ -28,8 +31,11 @@
 <details>
 <summary> Input and Output </summary>
   
-* Reading user input with `gets` and `gets.chomp`
-* Printing output with `puts`, `print`, and `p`
+* `gets`
+* `gets.chomp`
+* `puts`
+* `print`
+* `p`
 * Understanding the difference between return value and output
 * String interpolation and formatting
 </details>
@@ -37,7 +43,10 @@
 <details>
 <summary> Conditional Logic </summary>
   
-* `if`, `elsif`, `else`, and `unless` statements
+* `if`
+* `elsif`
+* `else`
+* `unless`
 * Ternary operator and one-line conditionals
 * `case/when` as a cleaner alternative to long if-chains
 * Truthy and falsy values in Ruby (`nil` and `false` only)
