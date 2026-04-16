@@ -33,17 +33,49 @@ A comprehensive introduction to web development, covering everything from how th
 ![Progress](https://img.shields.io/badge/Progress-17%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-Deep dive into backend and fullstack development using Ruby and Ruby on Rails, including databases, APIs, authentication and deployment.
+Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
 
-* Ruby 
-* Rails 
-* SQL 
-* MVC 
-* REST APIs 
-* Authentication 
+* Ruby
+* Ruby on Rails
+* SQL
+* PostgreSQL
+* MVC
+* REST APIs
+* Active Record
+* Object-Oriented Programming
+* HTML & CSS
+* JavaScript
+* React
+* DOM Manipulation
+* Authentication
+* Responsive Design
+* Testing
 * Deployment
 
 ➡️ [View Repository](./full-stack-ruby-on-rails)
+
+---
+
+### 🔄 Full Stack JavaScript — `javascript/`
+![Progress](https://img.shields.io/badge/Progress-0%25-red)
+![Status](https://img.shields.io/badge/Status-In%20Progress-red)
+
+Deep dive into fullstack development using JavaScript and Node.js, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
+
+* HTML & CSS
+* JavaScript
+* React
+* Node.js
+* Express
+* SQL
+* PostgreSQL
+* REST APIs
+* MVC
+* DOM Manipulation
+* Object-Oriented Programming
+* Authentication
+* Responsive Design
+* Deployment
 
 ---
 
