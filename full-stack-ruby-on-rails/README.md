@@ -66,43 +66,7 @@ Repository containing projects and exercises built during the **Full Stack Ruby 
 
 ---
 
-## 🛠️ Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔜 Coming soon... | More projects as the path progresses | ⏳ Pending |
-
----
-
-## 📈 What This Repository Demonstrates
-
-* Commitment to continuous and structured learning
-* Understanding of Ruby's core data types, variables, I/O, conditionals, loops, and arrays
-* Hands-on approach to building real programming foundations
-* Progression from web fundamentals to backend development
-
----
-
-## 🎯 Next Steps
-
-* Continue **Basic Ruby** (Hashes, Methods, Debugging, Basic & Predicate Enumerables, Nested Collections)
-* **Basic Ruby Projects** (Caesar Cipher, Sub Strings, Stock Picker, Bubble Sort)
-* **OOP in Ruby** (classes, inheritance, modules)
-* **Testing with RSpec** and TDD
-* **Databases** (SQL, Active Record)
-* **Ruby on Rails** (MVC, routing, authentication, deployment)
-
----
-
 ## 🤝 Acknowledgements
 
 This project is part of the curriculum from
 👉 https://www.theodinproject.com/
-
----
-
-## 📌 Notes
-
-This repository represents my journey into fullstack development with **Ruby on Rails**, building on the foundations already established in the Foundations Course.
-
-It will continue to evolve as each new concept is learned and each new project is completed.
