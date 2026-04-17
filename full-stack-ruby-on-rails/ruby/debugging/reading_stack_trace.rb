@@ -1,5 +1,3 @@
-require 'pry-byebug'
-
 def isogram_1?(string)
   original_length = string.length
   string_array = string.downcase.split("")
