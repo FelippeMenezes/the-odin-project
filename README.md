@@ -31,55 +31,15 @@ A comprehensive introduction to web development, covering everything from how th
 * Clean Code
 
 <details>
-
  <summary> 💻 Projects </summary>
 
- <details>
- <summary> 🍲 Recipes </summary>
-  
-  🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) 
-  
-  ➡️ [Recipes Repository](https://github.com/FelippeMenezes/recipes-top)
-  
- </details>
+ * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍲 [Repository](https://github.com/FelippeMenezes/recipes-top)
+ * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃 [Repository](https://github.com/FelippeMenezes/landing-page-top)
+ * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp; ✊🤚✌️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+ * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
+ * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖩 [Repository](https://github.com/FelippeMenezes/project-calculator)
 
- <details>
- <summary> 📃 Landing Page </summary>
-  
- 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/)
- 
- ➡️ [Repository](https://github.com/FelippeMenezes/landing-page-top)
-    
- </details>
- 
- <details>
- <summary> ✊ Rock, 🤚 Paper, ✌️ Scissors </summary>
-  
- 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) 
- 
- ➡️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
-     
- </details>
-
- <details>
- <summary> 🍲 Etch-a-Sketc </summary>
-  
-  🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) 
- 
-  ➡️ [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
-
- </details>
-
- <details>
- <summary> 🖩 Calculator </summary>
-  
-  🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) 
- 
-  ➡️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
-     
- </details>
-
- </details>
+</details>
 
 ---
 
@@ -106,6 +66,14 @@ Deep dive into fullstack development using Ruby and Ruby on Rails, covering back
 * Testing
 * Deployment
 
+<details>
+ <summary> 💻 Projects </summary>
+
+ * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+ * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+
+</details>
+
 ---
 
 ### 🔄 Full Stack JavaScript
@@ -128,6 +96,14 @@ Deep dive into fullstack development using JavaScript and Node.js, covering resp
 * Authentication
 * Responsive Design
 * Deployment
+
+<details>
+ <summary> 💻 Projects </summary>
+
+ * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+ * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+
+</details>
 
 ---
 
