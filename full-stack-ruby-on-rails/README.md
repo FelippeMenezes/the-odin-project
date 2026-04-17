@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-21%25-orange)
+![Progress](https://img.shields.io/badge/Progress-23%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -99,5 +99,17 @@
 * Bang methods (`!`) that modify the original object
 * Naming conventions (snake_case, avoid reserved words)
 * DRY principle: reuse code instead of repeating it
+
+</details>
+
+<details>
+<summary> Debugging </summary>
+  
+* Reading the stack trace to find errors (focus on the first line)
+* Using `puts` and `p` to inspect values (`p` is more reliable)
+* Testing assumptions about variables and outputs
+* Using `binding.pry` to pause and inspect execution
+* Stepping through code (`next`) with `pry-byebug`
+* Debugging crashes vs incorrect behavior
 
 </details>
