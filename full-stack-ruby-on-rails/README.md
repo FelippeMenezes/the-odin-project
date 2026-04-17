@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-23%25-orange)
+![Progress](https://img.shields.io/badge/Progress-25%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -111,6 +111,20 @@
 * Using `binding.pry` to pause and inspect execution
 * Stepping through code (`next`) with `pry-byebug`
 * Debugging crashes vs incorrect behavior
+
+</details>
+
+<details>
+<summary> Enumerable Methods </summary>
+  
+* Iterate collections (arrays & hashes)
+* #each → loop, returns original collection
+* #each_with_index → loop with index
+* #map → transform, returns new array
+* #select → filter, returns matching elements
+* #reduce → combine into single value
+* { } vs do...end → single vs multi-line blocks
+* Bang methods (!) → mutate original object (avoid when possible)
 
 </details>
 
