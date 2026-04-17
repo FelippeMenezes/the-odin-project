@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-19%25-orange)
+![Progress](https://img.shields.io/badge/Progress-21%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -83,5 +83,21 @@
 * Useful methods: `keys`, `values`
 * Merging hashes with `merge` (and how conflicts are handled)
 * Using symbols as keys for better performance and cleaner syntax
+
+</details>
+
+<details>
+<summary> Methods </summary>
+  
+* Defining methods with `def` and calling them by name
+* Using parameters and arguments to make methods dynamic
+* Setting default parameter values
+* Understanding implicit vs explicit return (`return`)
+* Difference between `puts` (output) and return values (data flow)
+* Method chaining (e.g., `reverse.join.capitalize`)
+* Predicate methods (`?`) that return boolean values
+* Bang methods (`!`) that modify the original object
+* Naming conventions (snake_case, avoid reserved words)
+* DRY principle: reuse code instead of repeating it
 
 </details>
