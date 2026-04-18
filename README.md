@@ -84,7 +84,7 @@
 
 ---
 
-### Full Stack JavaScript - [Repository]
+### Full Stack JavaScript - Repository
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red)
 
