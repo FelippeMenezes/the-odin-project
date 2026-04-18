@@ -5,7 +5,23 @@
 
 ---
 
-### 💎 Basic Ruby *(In Progress)*
+## Introduction
+
+> This comprehensive curriculum focuses on mastering the Ruby ecosystem from the ground up, transitioning from foundational logic to advanced architectural patterns.
+>
+> * Data Structures & Logic: Deep dive into Ruby’s unique handling of strings, symbols, and variables, alongside mastery of conditional flow (unless, ternary) and loop patterns.
+>
+> * Advanced Collections: Expert manipulation of Arrays and Hashes, including safe navigation with #dig and avoiding common pitfalls like shared object references in nested collections.
+>
+> * The Power of Enumerables: Harnessing Ruby’s most powerful feature—the Enumerable module—using methods like #map, #select, and #reduce to write clean, idiomatic, and efficient code.
+>
+> * Clean Code & Debugging: Implementing the DRY (Don't Repeat Yourself) principle through modular methods and utilizing professional debugging tools like pry-byebug for stack trace analysis and execution control.
+
+---
+
+<details>
+
+<summary> 💎 Basic Ruby *(In Progress)* </summary>
 
 <details>
 <summary> Basic Data Types </summary>
@@ -161,6 +177,11 @@
 * Combine → `any?` + `all?`
 
 </details>
+
+</details>
+
+---
+
 
 <details>
  <summary> 💻 Projects </summary>
