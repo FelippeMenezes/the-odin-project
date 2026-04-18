@@ -1,70 +1,78 @@
-# 🧙‍♂️ The Odin Project – Full Stack Development Journey
+# The Odin Project
 
 ![Overall Progress](https://img.shields.io/badge/Overall%20Progress-36,23%25-yellow)
 ![Paths](https://img.shields.io/badge/Paths-2-blue)
 ![Goal](https://img.shields.io/badge/Goal-Full%20Stack%20Engineer-purple)
-![Stack](https://img.shields.io/badge/Stack-Ruby%20on%20Rails%20%7C%20JavaScript-red)
+![Stack](https://img.shields.io/badge/Stack-Ruby%20on%20Rails%20%7C%20React-red)
 
 > Structured, project-based learning path toward becoming a **Full Stack Engineer**, combining industry experience with deliberate study of computer science and software engineering fundamentals.
 
 ---
 
-## 🗺️ Learning Paths
-
-### ✅ [Foundations Course](./foundations)
+### Foundations - [Repository](./foundations)
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
+> A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
+<details>
+ <summary> 📚 Lessons </summary>
+ 
+ * Linux
+ * Git 
+ * HTML 
+ * CSS 
+ * Flexbox 
+ * JavaScript 
+ * DOM Manipulation 
+ * Debugging
+ * Developer Tools
+ * Understanding Errors
+ * Troubleshooting Strategy
+ * Clean Code
 
-* Linux
-* Git 
-* HTML 
-* CSS 
-* Flexbox 
-* JavaScript 
-* DOM Manipulation 
-* Debugging
-* Developer Tools
-* Understanding Errors
-* Troubleshooting Strategy
-* Clean Code
+</details>
 
 <details>
  <summary> 💻 Projects </summary>
 
- * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍲 [Repository](https://github.com/FelippeMenezes/recipes-top)
- * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃 [Repository](https://github.com/FelippeMenezes/landing-page-top)
- * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp; ✊🤚✌️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
- * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
- * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖩 [Repository](https://github.com/FelippeMenezes/project-calculator)
+ * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
+ * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/landing-page-top)
+ * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp;  [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+ * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
+ * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 </details>
 
 ---
 
-### 🔄 [Full Stack Ruby on Rails](./full-stack-ruby-on-rails)
+### Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
 ![Progress](https://img.shields.io/badge/Progress-8,7%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
+> Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
 
-* Ruby
-* Ruby on Rails
-* SQL
-* PostgreSQL
-* MVC
-* REST APIs
-* Active Record
-* Object-Oriented Programming
-* HTML & CSS
-* JavaScript
-* React
-* DOM Manipulation
-* Authentication
-* Responsive Design
-* Testing
-* Deployment
+<details>
+ <summary> 📚 Lessons </summary>
+ 
+ * Ruby
+ * Ruby on Rails
+ * SQL
+ * PostgreSQL
+ * MVC
+ * REST APIs
+ * Active Record
+ * Object-Oriented Programming
+ * HTML 
+ * CSS
+ * JavaScript
+ * React
+ * DOM Manipulation
+ * Authentication
+ * Responsive Design
+ * Testing
+ * Deployment
+ 
+</details>
 
 <details>
  <summary> 💻 Projects </summary>
@@ -76,26 +84,32 @@ Deep dive into fullstack development using Ruby and Ruby on Rails, covering back
 
 ---
 
-### 🔄 Full Stack JavaScript
+### Full Stack JavaScript - [Repository]
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red)
 
-Deep dive into fullstack development using JavaScript and Node.js, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
+> Deep dive into fullstack development using JavaScript and Node.js, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
 
-* HTML & CSS
-* JavaScript
-* React
-* Node.js
-* Express
-* SQL
-* PostgreSQL
-* REST APIs
-* MVC
-* DOM Manipulation
-* Object-Oriented Programming
-* Authentication
-* Responsive Design
-* Deployment
+<details>
+ <summary> 📚 Lessons </summary>
+ 
+ * HTML
+ * CSS
+ * JavaScript
+ * React
+ * Node.js
+ * Express
+ * SQL
+ * PostgreSQL
+ * REST APIs
+ * MVC
+ * DOM Manipulation
+ * Object-Oriented Programming
+ * Authentication
+ * Responsive Design
+ * Deployment
+ 
+</details>
 
 <details>
  <summary> 💻 Projects </summary>
@@ -121,5 +135,4 @@ Deep dive into fullstack development using JavaScript and Node.js, covering resp
 
 ---
 
-Built following the open-source curriculum from  
-👉 https://www.theodinproject.com/
+Built following the open-source curriculum from [https://www.theodinproject.com/](https://www.theodinproject.com/))
