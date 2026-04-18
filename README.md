@@ -5,6 +5,8 @@
 ![Goal](https://img.shields.io/badge/Goal-Full%20Stack%20Engineer-purple)
 ![Stack](https://img.shields.io/badge/Stack-Ruby%20on%20Rails%20%7C%20React-red)
 
+> Repository containing projects and exercises built throughout The Odin Project , focusing on full-stack web development with Linux, Git, Github, HTML, CSS, JavaScript, Node.js, Ruby on Rails, SQL, Postgres SQL and React.
+>
 > Structured, project-based learning path toward becoming a **Full Stack Engineer**, combining industry experience with deliberate study of computer science and software engineering fundamentals.
 
 ---
