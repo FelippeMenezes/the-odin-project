@@ -11,7 +11,7 @@
 
 ---
 
-### Foundations - [Repository](./foundations)
+## Foundations - [Repository](./foundations)
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
@@ -48,7 +48,7 @@
 
 ---
 
-### Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
+## Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
 ![Progress](https://img.shields.io/badge/Progress-8,7%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
@@ -87,7 +87,7 @@
 
 ---
 
-### Full Stack JavaScript - Repository
+## Full Stack JavaScript - Repository
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red)
 
