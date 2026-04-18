@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-25%25-orange)
+![Progress](https://img.shields.io/badge/Progress-27%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -125,6 +125,20 @@
 * #reduce → combine into single value
 * { } vs do...end → single vs multi-line blocks
 * Bang methods (!) → mutate original object (avoid when possible)
+
+</details>
+
+<details>
+<summary> Predicate Enumerable Methods </summary>
+  
+* Predicate methods → end with ? and return true/false
+* #include? → checks if element exists in collection
+* #any? → true if at least one element matches condition
+* #all? → true if all elements match condition
+* #none? → true if no elements match condition
+* #one? → true if exactly one element matches condition
+* Short-circuiting → stops early when result is determined
+* Empty collections → #all? returns true by default
 
 </details>
 
