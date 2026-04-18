@@ -26,169 +26,170 @@
 
 <Summary> 📚 Lessons </Summary>
 
-<details>
-<summary> ⚙️ Development Environment & Tools </summary>
+* <details>
+   <summary> ⚙️ Development Environment & Tools </summary>
+   
+    * Linux Command Line (terminal navigation and commands)
+   * Text editors (VS Code)
+   
+   </details>
 
-* Linux Command Line (terminal navigation and commands)
-* Text editors (VS Code)
+* <details>
+   <summary> 🦑 Git & GitHub: </summary>
+   
+    * `clone`, `add`, `commit`, `push`, `pull`
+   * Branching basics
+   * Writing meaningful commit messages
+   * Installing and using Node.js
+   
+  </details>
 
-</details>
-
-<details>
- <summary> 🦑 Git & GitHub: </summary>
+* <details>
+   <summary> 🧱 HTML Foundations </summary>
  
-  * `clone`, `add`, `commit`, `push`, `pull`
- * Branching basics
- * Writing meaningful commit messages
- * Installing and using Node.js
+   * Semantic HTML
+  * Elements, tags, and attributes
+  * Boilerplate structure
+  * Working with:
+    * Text
+    * Lists
+    * Links
+    * Images
+  * Basic accessibility practices
+   
+  </details>
+
+* <details>
  
-</details>
+   <summary> 🎨 CSS Foundations </summary>
+  
+   * CSS syntax and selectors
+  * The Cascade and specificity
+  * Box Model (margin, padding, border)
+  * Block vs Inline elements
+   
+  </details>
 
-<details>
- <summary> 🧱 HTML Foundations </summary>
+* <details>
+   <summary> 📦 Flexbox </summary>
+  
+   * Main axis vs Cross axis
+  * Alignment and positioning
+  * Flex grow, shrink, and basis
+   
+  </details>
 
-* Semantic HTML
-* Elements, tags, and attributes
-* Boilerplate structure
-* Working with:
-  * Text
-  * Lists
-  * Links
-  * Images
-* Basic accessibility practices
- 
-</details>
+* <details>
+   <summary> ⚙️ JavaScript Foundations </summary>
+  
+   * Variables (`let`, `const`)
+  * Data types (string, number, boolean, arrays, objects)
+  * Operators and conditionals
+  * Functions and scope
+  * Loops and iteration
+  * Arrays and basic manipulation
+  * Object basics
+   
+  </details>
 
-<details>
- <summary> 🎨 CSS Foundations </summary>
+* <details>
+   <summary> 🧩 DOM Manipulation </summary>
+  
+   * Selecting elements (`querySelector`)
+  * Event listeners (click, input, etc.)
+  * Updating the UI dynamically
+  * Handling user interactions
+   
+  </details>
 
-* CSS syntax and selectors
-* The Cascade and specificity
-* Box Model (margin, padding, border)
-* Block vs Inline elements
- 
-</details>
+* <details>
+   <summary> 🐞 Debugging </summary>
+  
+   * Open DevTools:
+    * F12
+    * Right-click → Inspect
+    * Chrome Menu → More Tools → Developer Tools
+  * Run JavaScript in the console
+  * Edit HTML and CSS in real time (no reload)
+  * Inspect and modify the DOM
+  * Use breakpoints to pause execution
+  * View scripts (Sources/Resources)
+  * Simulate devices and screen sizes
+  * Work with:
+    * Box Model
+    * CSS classes and pseudostates
+    * Media queries
+    * Print mode
+   
+  </details>
 
-<details>
- <summary> 📦 Flexbox </summary>
+* <details>
+   <summary> ⚠️ Understanding Errors </summary>
+  
+   * Errors contain:
+    * Type
+    * Message
+    * File + line
+    * Stack trace (error path)
+  * Errors point directly to the problem location
+  *  Common types:
+   * **SyntaxError** → invalid syntax
+   * **ReferenceError** → variable not defined
+   * **TypeError** → incorrect use of type/method
+  
+  </details>
 
-* Main axis vs Cross axis
-* Alignment and positioning
-* Flex grow, shrink, and basis
- 
-</details>
+* <details>
+   <summary> 🔍 How to Debug </summary>
+  
+   * Read the error carefully (it guides you)
+  * Go to the exact line indicated
+  * Use:
+    * `console.log()`
+    * `console.table()`
+    * `console.trace()`
+  * Use the debugger:
+    * Breakpoints
+    * Step-by-step execution
+    * Inspect variables
+   
+  </details>
 
-<details>
- <summary> ⚙️ JavaScript Foundations </summary>
+* <details>
+   <summary> 🧠 Troubleshooting Strategy </summary>
+  
+   * Search the error (Google / StackOverflow / Docs)
+  * Check:
+    * Variable names
+    * Scope
+    * Data types
+  * Remember:
+    * The error is not your enemy — it’s a diagnostic tool
+   
+  </details>
 
-* Variables (`let`, `const`)
-* Data types (string, number, boolean, arrays, objects)
-* Operators and conditionals
-* Functions and scope
-* Loops and iteration
-* Arrays and basic manipulation
-* Object basics
- 
-</details>
+* <details>
+   <summary> ⚖️ Errors vs Warnings </summary>
+  
+   * **Error**:
+    * Stops execution
+    * Must be fixed
+  * **Warning**:
+    * Does not stop execution
+    * Indicates potential issues
+   
+  </details>
 
-<details>
- <summary> 🧩 DOM Manipulation </summary>
-
-* Selecting elements (`querySelector`)
-* Event listeners (click, input, etc.)
-* Updating the UI dynamically
-* Handling user interactions
- 
-</details>
-
-<details>
- <summary> 🐞 Debugging </summary>
-
-* Open DevTools:
-  * F12
-  * Right-click → Inspect
-  * Chrome Menu → More Tools → Developer Tools
-* Run JavaScript in the console
-* Edit HTML and CSS in real time (no reload)
-* Inspect and modify the DOM
-* Use breakpoints to pause execution
-* View scripts (Sources/Resources)
-* Simulate devices and screen sizes
-* Work with:
-  * Box Model
-  * CSS classes and pseudostates
-  * Media queries
-  * Print mode
- 
-</details>
-
-<details>
- <summary> ⚠️ Understanding Errors </summary>
-
-* Errors contain:
-  * Type
-  * Message
-  * File + line
-  * Stack trace (error path)
-* Errors point directly to the problem location
-*  Common types:
- * **SyntaxError** → invalid syntax
- * **ReferenceError** → variable not defined
- * **TypeError** → incorrect use of type/method
-
-</details>
-
-<details>
- <summary> 🔍 How to Debug </summary>
-
- * Read the error carefully (it guides you)
-* Go to the exact line indicated
-* Use:
-  * `console.log()`
-  * `console.table()`
-  * `console.trace()`
-* Use the debugger:
-  * Breakpoints
-  * Step-by-step execution
-  * Inspect variables
- 
-</details>
-
-<details>
- <summary> 🧠 Troubleshooting Strategy </summary>
-
-* Search the error (Google / StackOverflow / Docs)
-* Check:
-  * Variable names
-  * Scope
-  * Data types
-* Remember:
-  * The error is not your enemy — it’s a diagnostic tool
- 
-</details>
-
-<details>
- <summary> ⚖️ Errors vs Warnings </summary>
-
-* **Error**:
-  * Stops execution
-  * Must be fixed
-* **Warning**:
-  * Does not stop execution
-  * Indicates potential issues
- 
-</details>
-
-<details>
- <summary> 🎯 Core Idea </summary>
-
- * Debugging = understanding code behavior
-* Tools help, but the key is:
-  * Reading errors
-  * Logical thinking
-  * Testing hypotheses
- 
-</details>
+* <details>
+   <summary> 🎯 Core Idea </summary>
+  
+   * Debugging = understanding code behavior
+  * Tools help, but the key is:
+    * Reading errors
+    * Logical thinking
+    * Testing hypotheses
+   
+  </details>
 
 </details>
 
