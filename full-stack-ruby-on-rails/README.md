@@ -8,7 +8,7 @@
 > On the frontend, it includes HTML, CSS, JavaScript, and React, enabling the creation of responsive and interactive user interfaces.
 ---
 
-## Introduction
+## Description
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
