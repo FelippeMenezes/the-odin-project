@@ -89,7 +89,7 @@
 ![Progress](https://img.shields.io/badge/Progress-0%25-red)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red)
 
-> Deep dive into fullstack development using JavaScript and Node.js, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
+> Deep dive into fullstack development using JavaScript, Node.js and React, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
 
 <details>
  <summary> 📚 Lessons </summary>
