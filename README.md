@@ -134,6 +134,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
----
-
 Built following the open-source curriculum from [https://www.theodinproject.com/](https://www.theodinproject.com/))
