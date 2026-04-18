@@ -1,5 +1,5 @@
 # 🚀 The Odin Project – Full Stack Ruby on Rails
-![Progress](https://img.shields.io/badge/Progress-27%25-orange)
+![Progress](https://img.shields.io/badge/Progress-29%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -139,6 +139,26 @@
 * #one? → true if exactly one element matches condition
 * Short-circuiting → stops early when result is determined
 * Empty collections → #all? returns true by default
+
+</details>
+
+<details>
+<summary> Nested Collections </summary>
+  
+* Nested array/hash → collections inside collections
+
+* Access → `array[x][y]` | `hash[:key][:nested_key]`
+* Safe access → `#dig` avoids errors (returns nil)
+
+* Array.new  → shared reference with mutable objects
+* Fix → `Array.new(n) { ... }`
+
+* Add/remove → `<<`, `push`, `pop`, `delete`
+
+* Iterate → nested `each`
+* Flatten → `#flatten` for simpler loops
+
+* Combine → `any?` + `all?`
 
 </details>
 
