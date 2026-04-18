@@ -1,4 +1,4 @@
-# 🚀 The Odin Project – Foundations Course
+# The Odin Project – Foundations Course
 
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -6,22 +6,44 @@
 
 ---
 
-### ⚙️ Development Environment & Tools
+## Introduction
+
+> This repository serves as a comprehensive record of my journey through The Odin Project’s Foundations Course. It represents the successful completion of the essential building blocks required for modern Full Stack Development.
+>
+> The focus of this module was to transition from theoretical knowledge to practical proficiency. Key competencies developed include:
+>
+> * Workflow Efficiency: Mastery of the Linux command line and advanced Git/GitHub version control workflows.
+>
+> * Modern Frontend: Building responsive, accessible interfaces using semantic HTML5 and CSS3 (Flexbox).
+>
+> * Foundational JavaScript: Developing logic-driven applications and dynamic UIs through DOM manipulation.
+>
+> * Engineering Mindset: A heavy emphasis on debugging strategies, technical troubleshooting, and utilizing Browser DevTools to solve complex code behaviors.
+
+<details>
+
+<Summary> 📚 Lessons </Summary>
+
+<details>
+ <summary> ⚙️ Development Environment & Tools </summary>
 
 * Linux Command Line (terminal navigation and commands)
 * Text editors (VS Code)
 
----
+</details>
 
-### 🦑 Git & GitHub:
- * `clone`, `add`, `commit`, `push`, `pull`
+<details>
+ <summary> 🦑 Git & GitHub: </summary>
+ 
+  * `clone`, `add`, `commit`, `push`, `pull`
  * Branching basics
  * Writing meaningful commit messages
  * Installing and using Node.js
+ 
+</details>
 
----
-
-### 🧱 HTML Foundations
+<details>
+ <summary> 🧱 HTML Foundations </summary>
 
 * Semantic HTML
 * Elements, tags, and attributes
@@ -32,25 +54,30 @@
   * Links
   * Images
 * Basic accessibility practices
+ 
+</details>
 
----
-
-### 🎨 CSS Foundations
+<details>
+ <summary> 🎨 CSS Foundations </summary>
 
 * CSS syntax and selectors
 * The Cascade and specificity
 * Box Model (margin, padding, border)
 * Block vs Inline elements
+ 
+</details>
 
-#### 📦 Flexbox
+<details>
+ <summary> 📦 Flexbox </summary>
 
 * Main axis vs Cross axis
 * Alignment and positioning
 * Flex grow, shrink, and basis
+ 
+</details>
 
----
-
-### ⚙️ JavaScript Foundations
+<details>
+ <summary> ⚙️ JavaScript Foundations </summary>
 
 * Variables (`let`, `const`)
 * Data types (string, number, boolean, arrays, objects)
@@ -59,20 +86,21 @@
 * Loops and iteration
 * Arrays and basic manipulation
 * Object basics
----
+ 
+</details>
 
-### 🧩 DOM Manipulation
+<details>
+ <summary> 🧩 DOM Manipulation </summary>
 
 * Selecting elements (`querySelector`)
 * Event listeners (click, input, etc.)
 * Updating the UI dynamically
 * Handling user interactions
+ 
+</details>
 
----
-
-## 🐞 Debugging
-
-### 🛠️ Developer Tools (DevTools)
+<details>
+ <summary> 🐞 Debugging </summary>
 
 * Open DevTools:
   * F12
@@ -89,10 +117,11 @@
   * CSS classes and pseudostates
   * Media queries
   * Print mode
+ 
+</details>
 
----
-
-### ⚠️ Understanding Errors
+<details>
+ <summary> ⚠️ Understanding Errors </summary>
 
 * Errors contain:
   * Type
@@ -100,17 +129,17 @@
   * File + line
   * Stack trace (error path)
 * Errors point directly to the problem location
+*  Common types:
+ * **SyntaxError** → invalid syntax
+ * **ReferenceError** → variable not defined
+ * **TypeError** → incorrect use of type/method
 
-#### Common types:
-* **SyntaxError** → invalid syntax
-* **ReferenceError** → variable not defined
-* **TypeError** → incorrect use of type/method
+</details>
 
----
+<details>
+ <summary> 🔍 How to Debug </summary>
 
-### 🔍 How to Debug
-
-* Read the error carefully (it guides you)
+ * Read the error carefully (it guides you)
 * Go to the exact line indicated
 * Use:
   * `console.log()`
@@ -120,10 +149,11 @@
   * Breakpoints
   * Step-by-step execution
   * Inspect variables
+ 
+</details>
 
----
-
-### 🧠 Troubleshooting Strategy
+<details>
+ <summary> 🧠 Troubleshooting Strategy </summary>
 
 * Search the error (Google / StackOverflow / Docs)
 * Check:
@@ -132,10 +162,11 @@
   * Data types
 * Remember:
   * The error is not your enemy — it’s a diagnostic tool
+ 
+</details>
 
----
-
-### ⚖️ Errors vs Warnings
+<details>
+ <summary> ⚖️ Errors vs Warnings </summary>
 
 * **Error**:
   * Stops execution
@@ -143,26 +174,29 @@
 * **Warning**:
   * Does not stop execution
   * Indicates potential issues
+ 
+</details>
 
----
+<details>
+ <summary> 🎯 Core Idea </summary>
 
-### 🎯 Core Idea
-
-* Debugging = understanding code behavior
+ * Debugging = understanding code behavior
 * Tools help, but the key is:
   * Reading errors
   * Logical thinking
   * Testing hypotheses
+ 
+</details>
 
- ---
+</details>
 
 <details>
  <summary> 💻 Projects </summary>
 
- * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🍲 [Repository](https://github.com/FelippeMenezes/recipes-top)
- * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃 [Repository](https://github.com/FelippeMenezes/landing-page-top)
- * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp; ✊🤚✌️ [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
- * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
- * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖩 [Repository](https://github.com/FelippeMenezes/project-calculator)
+ * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
+ * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/landing-page-top)
+ * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp;  [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+ * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
+ * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 </details>
