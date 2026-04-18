@@ -169,3 +169,12 @@
  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
 
 </details>
+
+---
+
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
