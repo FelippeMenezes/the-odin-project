@@ -14,6 +14,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
+
 <details>
  <summary> 📚 Lessons </summary>
  
