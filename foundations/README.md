@@ -7,7 +7,14 @@
 ---
 
 ## Introduction
-
+> ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+>
+>
 > This repository serves as a comprehensive record of my journey through The Odin Project’s Foundations Course. It represents the successful completion of the essential building blocks required for modern Full Stack Development.
 >
 > The focus of this module was to transition from theoretical knowledge to practical proficiency. Key competencies developed include:
@@ -20,13 +27,13 @@
 >
 > * Engineering Mindset: A heavy emphasis on debugging strategies, technical troubleshooting, and utilizing Browser DevTools to solve complex code behaviors.
 
----
-
 ## Lessons
 
+> Lessons learned modules
+>
 <details>
 
-<Summary> 📚 Modules </Summary>
+<Summary> Modules </Summary>
 <br>
 
 * <details>
@@ -222,12 +229,13 @@
 
 </details>
 
----
-
 ## Projects
+>
+> Project links and repositories
+>
 
 <details>
- <summary> 💻 links: </summary>
+ <summary> links: </summary>
 <br>
 
  * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
@@ -249,14 +257,3 @@
  * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-calculator)
 
 </details>
-
----
-
-## <sub><sub><sub> Languages and Tools </sub></sub></sub>
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
