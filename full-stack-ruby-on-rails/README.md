@@ -1,12 +1,15 @@
-# Full Stack Ruby on Rails
+# The Odin Project - Full Stack Ruby on Rails Course
 ![Progress](https://img.shields.io/badge/Progress-8,7%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
+> This learning path offers a structured approach to becoming a full stack web developer using Ruby on Rails. It covers core programming with Ruby, database management with SQL, and backend development following the MVC architecture.
+>
+> On the frontend, it includes HTML, CSS, JavaScript, and React, enabling the creation of responsive and interactive user interfaces.
 ---
 
 ## Introduction
-> ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
@@ -16,11 +19,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 >
-> This comprehensive curriculum focuses on mastering the Ruby ecosystem from the ground up, transitioning from foundational logic to advanced architectural patterns.
+> The curriculum covers Ruby fundamentals, including object-oriented programming, data structures, and testing, followed by HTML and CSS to build and style responsive interfaces. It introduces relational databases and SQL for efficient data management, then advances into Ruby on Rails for full stack development using the MVC architecture. The path continues with JavaScript to add interactivity and API integration, and concludes with React for building modern, dynamic user interfaces.
 
 ## Lessons
 
-> Lessons learned modules
+> Covers Ruby fundamentals, databases, and Ruby on Rails for backend development, along with HTML, CSS, JavaScript, and React to build responsive and interactive user interfaces.
 >
 <details>
 
@@ -229,7 +232,7 @@
 
 ## Projects
 >
-> Project links and repositories
+> The projects focus on building practical applications that reinforce both backend and frontend skills, including database integration, MVC architecture with Ruby on Rails, and dynamic interfaces using JavaScript and React, resulting in complete, real-world web applications.
 >
 
 <details>
