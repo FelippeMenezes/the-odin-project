@@ -3,11 +3,16 @@
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Focus](https://img.shields.io/badge/Focus-Fullstack%20Foundations-blue)
+>
+>
+> The Foundations Course is a hands-on introduction to the essential skills of modern web development. It covers how the web works, setting up a development environment, and using Git for version control and collaboration.
+>
+> Students learn to build and style web pages with HTML and CSS, including key concepts like the box model and Flexbox. In JavaScript, they develop core programming skills such as working with variables, functions, loops, and DOM manipulation to create interactive features.
 
 ---
 
 ## Introduction
-> ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -15,21 +20,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 >
 >
-> This repository serves as a comprehensive record of my journey through The Odin Project’s Foundations Course. It represents the successful completion of the essential building blocks required for modern Full Stack Development.
+> The course emphasizes problem-solving, debugging, and clean code practices. Learners apply their knowledge through practical projects like a recipes site, landing page, Rock Paper Scissors, Etch-a-Sketch, and a calculator.
 >
-> The focus of this module was to transition from theoretical knowledge to practical proficiency. Key competencies developed include:
->
-> * Workflow Efficiency: Mastery of the Linux command line and advanced Git/GitHub version control workflows.
->
-> * Modern Frontend: Building responsive, accessible interfaces using semantic HTML5 and CSS3 (Flexbox).
->
-> * Foundational JavaScript: Developing logic-driven applications and dynamic UIs through DOM manipulation.
->
-> * Engineering Mindset: A heavy emphasis on debugging strategies, technical troubleshooting, and utilizing Browser DevTools to solve complex code behaviors.
+> By the end, students have a strong foundation in front-end development and are prepared to move on to more advanced full-stack topics.
 
 ## Lessons
 
-> Lessons learned modules
+> Built a solid foundation in web development by understanding how the web works, using Git, and setting up a development environment. Learned to create and style pages with HTML and CSS, and to build interactive features with JavaScript, focusing on problem-solving, debugging, and clean code practices.
 >
 <details>
 
@@ -231,7 +228,7 @@
 
 ## Projects
 >
-> Project links and repositories
+> The projects are practical, hands-on exercises designed to reinforce each concept learned throughout the course. They progress from simple static pages, like a recipes website and landing page, to interactive applications such as Rock Paper Scissors, Etch-a-Sketch, and a calculator. Each project focuses on applying real-world development skills, including layout design, user interaction, and JavaScript logic, while encouraging problem-solving and code organization.
 >
 
 <details>
