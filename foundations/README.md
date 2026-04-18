@@ -20,12 +20,14 @@
 >
 > * Engineering Mindset: A heavy emphasis on debugging strategies, technical troubleshooting, and utilizing Browser DevTools to solve complex code behaviors.
 
+---
+
 <details>
 
 <Summary> 📚 Lessons </Summary>
 
 <details>
- <summary> ⚙️ Development Environment & Tools </summary>
+<summary> ⚙️ Development Environment & Tools </summary>
 
 * Linux Command Line (terminal navigation and commands)
 * Text editors (VS Code)
@@ -189,6 +191,8 @@
 </details>
 
 </details>
+
+---
 
 <details>
  <summary> 💻 Projects </summary>
