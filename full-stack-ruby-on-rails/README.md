@@ -1,5 +1,5 @@
 # The Odin Project - Full Stack Ruby on Rails Course
-![Progress](https://img.shields.io/badge/Progress-9,92%25-orange)
+![Progress](https://img.shields.io/badge/Progress-6,9%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -242,7 +242,7 @@
 > 
 > <sub> </sub>
 >  
->  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>  * 🌐 [Sub Strings](https://github.com/FelippeMenezes/sub-strings-top)
 > 
 > </details>
 > 
