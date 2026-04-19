@@ -53,7 +53,7 @@
 ---
 
 ## Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
-![Progress](https://img.shields.io/badge/Progress-9,92%25-orange)
+![Progress](https://img.shields.io/badge/Progress-6,9%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 > Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
