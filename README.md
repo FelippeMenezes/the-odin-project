@@ -1,6 +1,6 @@
 # The Odin Project
 
-![Overall Progress](https://img.shields.io/badge/Overall%20Progress-36,23%25-yellow)
+![Overall Progress](https://img.shields.io/badge/Overall%20Progress-36,64%25-yellow)
 ![Paths](https://img.shields.io/badge/Paths-2-blue)
 ![Goal](https://img.shields.io/badge/Goal-Full%20Stack%20Engineer-purple)
 ![Stack](https://img.shields.io/badge/Stack-Ruby%20on%20Rails%20%7C%20React-red)
