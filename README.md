@@ -19,6 +19,8 @@
 
 <details>
  <summary> 📚 Lessons </summary>
+
+ <sub> </sub>
  
  * Linux
  * Git 
@@ -37,7 +39,9 @@
 
 <details>
  <summary> 💻 Projects </summary>
-
+ 
+ <sub> </sub>
+ 
  * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
  * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/landing-page-top)
  * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp;  [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
@@ -56,6 +60,8 @@
 
 <details>
  <summary> 📚 Lessons </summary>
+
+ <sub> </sub>
  
  * Ruby
  * Ruby on Rails
@@ -80,6 +86,8 @@
 <details>
  <summary> 💻 Projects </summary>
 
+ <sub> </sub>
+
  * 🌐 [Caesar Cipher](https://github.com/FelippeMenezes/caesar-cipher-top)
  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
 
@@ -95,6 +103,8 @@
 
 <details>
  <summary> 📚 Lessons </summary>
+
+ <sub> </sub>
  
  * HTML
  * CSS
@@ -116,6 +126,8 @@
 
 <details>
  <summary> 💻 Projects </summary>
+
+ <sub> </sub>
 
  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
