@@ -16,40 +16,40 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
-
-<details>
- <summary> 📚 Lessons </summary>
-
- <sub> </sub>
- 
- * Linux
- * Git 
- * HTML 
- * CSS 
- * Flexbox 
- * JavaScript 
- * DOM Manipulation 
- * Debugging
- * Developer Tools
- * Understanding Errors
- * Troubleshooting Strategy
- * Clean Code
-
-</details>
-
-<details>
- <summary> 💻 Projects </summary>
- 
- <sub> </sub>
- 
- * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
- * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/landing-page-top)
- * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp;  [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
- * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
- * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-calculator)
-
-</details>
-
+>
+> <details>
+>  <summary> 📚 Lessons </summary>
+>
+>  <sub> </sub>
+> 
+>  * Linux
+>  * Git 
+>  * HTML 
+>  * CSS 
+>  * Flexbox 
+>  * JavaScript 
+>  * DOM Manipulation 
+>  * Debugging
+>  * Developer Tools
+> * Understanding Errors
+>  * Troubleshooting Strategy
+>  * Clean Code
+>
+> </details>
+>
+> <details>
+>  <summary> 💻 Projects </summary>
+> 
+>  <sub> </sub>
+> 
+>  * 🌐 [Recipes Page](https://felippemenezes.github.io/recipes-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Repository](https://github.com/FelippeMenezes/recipes-top)
+>  * 🌐 [Landing Page](https://felippemenezes.github.io/landing-page-top/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/landing-page-top)
+>  * 🌐 [Rock, Paper, Scissors Page](https://felippemenezes.github.io/rock-paper-scissors/) &nbsp;  [Repository](https://github.com/FelippeMenezes/rock-paper-scissors)
+>  * 🌐 [Etch-a-Sketc Page](https://felippemenezes.github.io/project-etch-a-sketch/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-etch-a-sketch)
+>  * 🌐 [Calculator Page](https://felippemenezes.github.io/project-calculator/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository](https://github.com/FelippeMenezes/project-calculator)
+>
+> </details>
+>
 ---
 
 ## Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
@@ -57,42 +57,42 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 > Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
-
-<details>
- <summary> 📚 Lessons </summary>
-
- <sub> </sub>
- 
- * Ruby
- * Ruby on Rails
- * SQL
- * PostgreSQL
- * MVC
- * REST APIs
- * Active Record
- * Object-Oriented Programming
- * HTML 
- * CSS
- * JavaScript
- * React
- * DOM Manipulation
- * Authentication
- * Responsive Design
- * Testing
- * Deployment
- 
-</details>
-
-<details>
- <summary> 💻 Projects </summary>
-
- <sub> </sub>
-
- * 🌐 [Caesar Cipher](https://github.com/FelippeMenezes/caesar-cipher-top)
- * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
-
-</details>
-
+>
+> <details>
+>  <summary> 📚 Lessons </summary>
+>
+>  <sub> </sub>
+> 
+>  * Ruby
+>  * Ruby on Rails
+>  * SQL
+>  * PostgreSQL
+>  * MVC
+>  * REST APIs
+>  * Active Record
+>  * Object-Oriented Programming
+>  * HTML 
+>  * CSS
+>  * JavaScript
+>  * React
+>  * DOM Manipulation
+>  * Authentication
+>  * Responsive Design
+>  * Testing
+>  * Deployment
+> 
+> </details>
+>
+> <details>
+>  <summary> 💻 Projects </summary>
+>
+>  <sub> </sub>
+>
+>  * 🌐 [Caesar Cipher](https://github.com/FelippeMenezes/caesar-cipher-top)
+>  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>
+> </details>
+>
 ---
 
 ## Full Stack JavaScript - Repository
@@ -100,39 +100,41 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-red)
 
 > Deep dive into fullstack development using JavaScript, Node.js and React, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
-
-<details>
- <summary> 📚 Lessons </summary>
-
- <sub> </sub>
- 
- * HTML
- * CSS
- * JavaScript
- * React
- * Node.js
- * Express
- * SQL
- * PostgreSQL
- * REST APIs
- * MVC
- * DOM Manipulation
- * Object-Oriented Programming
- * Authentication
- * Responsive Design
- * Deployment
- 
-</details>
-
-<details>
- <summary> 💻 Projects </summary>
-
- <sub> </sub>
-
- * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
- * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
-
-</details>
+>
+> <details>
+>  <summary> 📚 Lessons </summary>
+>
+> <sub> </sub>
+> 
+>  * HTML
+>  * CSS
+>  * JavaScript
+>  * React
+>  * Node.js
+>  * Express
+>  * SQL
+>  * PostgreSQL
+>  * REST APIs
+>  * MVC
+>  * DOM Manipulation
+>  * Object-Oriented Programming
+>  * Authentication
+>  * Responsive Design
+>  * Deployment
+>  
+> </details>
+>
+> <details>
+>  <summary> 💻 Projects </summary>
+>
+>  <sub> </sub>
+>
+>  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>
+> </details>
+>
+>
 
 ---
 
