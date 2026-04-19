@@ -89,7 +89,7 @@
 >  <sub> </sub>
 >
 >  * 🌐 [Caesar Cipher](https://github.com/FelippeMenezes/caesar-cipher-top)
->  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>  * 🌐 [Sub Strings](https://github.com/FelippeMenezes/sub-strings-top)
 >
 > </details>
 >
