@@ -261,7 +261,7 @@
 >           </details>
 >
 >        * <details>
->           <summary> Next </summary>
+>           <summary> 🔢 Next </summary>
 >    
 >           <sub> </sub>
 >           
