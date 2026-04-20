@@ -18,7 +18,7 @@
 > A comprehensive introduction to web development, covering everything from how the internet works to building fully interactive front-end applications.
 >
 > <details>
->  <summary> 📚 Lessons </summary>
+>  <summary> Modules </summary>
 >
 >  <sub> </sub>
 > 
@@ -31,14 +31,14 @@
 >  * DOM Manipulation 
 >  * Debugging
 >  * Developer Tools
-> * Understanding Errors
+>  * Understanding Errors
 >  * Troubleshooting Strategy
 >  * Clean Code
 >
 > </details>
 >
 > <details>
->  <summary> 💻 Projects </summary>
+>  <summary> Projects </summary>
 > 
 >  <sub> </sub>
 > 
@@ -59,32 +59,72 @@
 > Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
 >
 > <details>
->  <summary> 📚 Lessons </summary>
 >
->  <sub> </sub>
+>  <summary> Modules </summary>
+>
+>  <sub></sub>
 > 
->  * Ruby
->  * Ruby on Rails
->  * SQL
->  * PostgreSQL
->  * MVC
->  * REST APIs
->  * Active Record
->  * Object-Oriented Programming
->  * HTML 
->  * CSS
->  * JavaScript
->  * React
->  * DOM Manipulation
->  * Authentication
->  * Responsive Design
->  * Testing
->  * Deployment
+> * <details>
+>    <summary> Ruby </summary>
+>
+>    <sub></sub>
+>
+>    *  Basic Ruby
+>    *  Object Oriented Programming Basics
+>
+> * <details>     
+>    <summary> Intermediate HTML and CSS </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Databases </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Ruby on Rails </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Advanced HTML and CSS </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> JavaScript </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> React </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
 > 
 > </details>
 >
 > <details>
->  <summary> 💻 Projects </summary>
+>  <summary> Projects </summary>
 >
 >  <sub> </sub>
 >
@@ -104,40 +144,78 @@
 > Deep dive into fullstack development using JavaScript, Node.js and React, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
 >
 > <details>
->  <summary> 📚 Lessons </summary>
 >
-> <sub> </sub>
+>  <summary> Modules </summary>
+>
+>  <sub></sub>
 > 
->  * HTML
->  * CSS
->  * JavaScript
->  * React
->  * Node.js
->  * Express
->  * SQL
->  * PostgreSQL
->  * REST APIs
->  * MVC
->  * DOM Manipulation
->  * Object-Oriented Programming
->  * Authentication
->  * Responsive Design
->  * Deployment
->  
+> * <details>
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> * <details>     
+>    <summary> Next </summary>
+>
+>    <sub></sub>
+>
+>    *  Next
+>
+>   </details>
+> 
 > </details>
 >
 > <details>
->  <summary> 💻 Projects </summary>
+>  <summary> Projects </summary>
 >
 >  <sub> </sub>
 >
->  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
->  * 🌐 [Under Development](https://felippemenezes.github.io/underdevelopment/) &nbsp;&nbsp;&nbsp;[Repository](https://github.com/FelippeMenezes/underdevelopment)
+>  * 🌐 [Next](https://github.com/FelippeMenezes)
 >
 > </details>
 >
->
-
 ---
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
