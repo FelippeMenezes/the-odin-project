@@ -1,5 +1,5 @@
 # The Odin Project - Full Stack Ruby on Rails Course
-![Progress](https://img.shields.io/badge/Progress-7,6%25-orange)
+![Progress](https://img.shields.io/badge/Progress-7,7%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -236,17 +236,13 @@
 > 
 > <details>
 >  <summary> Links </summary>
-> <br>
+>
+> <sub> </sub>
 > 
 >  * 🌐 [Caesar Cipher](https://github.com/FelippeMenezes/caesar-cipher-top)
-> 
-> <sub> </sub>
->  
 >  * 🌐 [Sub Strings](https://github.com/FelippeMenezes/sub-strings-top)
-> 
-> <sub> </sub>
-> 
 >  * 🌐 [Stock Picker](https://github.com/FelippeMenezes/stock-picker-top)
+>  * 🌐 [Bubble Sort](https://github.com/FelippeMenezes/bubble-sort-top)
 > 
 > </details>
 > 
