@@ -71,6 +71,7 @@
 >
 >    *  Basic Ruby
 >    *  Object Oriented Programming Basics
+>    *  Next
 >
 > * <details>     
 >    <summary> Intermediate HTML and CSS </summary>
@@ -149,23 +150,15 @@
 >
 >  <sub></sub>
 > 
-> * <details>
->    <summary> Next </summary>
+> *  <details>
+>    <summary> Intermediate HTML and CSS </summary>
 >
 >    <sub></sub>
 >
 >    *  Next
 >
 > * <details>     
->    <summary> Next </summary>
->
->    <sub></sub>
->
->    *  Next
->
->   </details>
-> * <details>     
->    <summary> Next </summary>
+>    <summary> JavaScript </summary>
 >
 >    <sub></sub>
 >
@@ -173,7 +166,7 @@
 >
 >   </details>
 > * <details>     
->    <summary> Next </summary>
+>    <summary> Advanced HTML and CSS </summary>
 >
 >    <sub></sub>
 >
@@ -181,7 +174,7 @@
 >
 >   </details>
 > * <details>     
->    <summary> Next </summary>
+>    <summary> React </summary>
 >
 >    <sub></sub>
 >
@@ -189,7 +182,7 @@
 >
 >   </details>
 > * <details>     
->    <summary> Next </summary>
+>    <summary> Databases </summary>
 >
 >    <sub></sub>
 >
@@ -197,7 +190,7 @@
 >
 >   </details>
 > * <details>     
->    <summary> Next </summary>
+>    <summary> NodeJS </summary>
 >
 >    <sub></sub>
 >
