@@ -1,5 +1,5 @@
 # The Odin Project - Full Stack Ruby on Rails Course
-![Progress](https://img.shields.io/badge/Progress-7,7%25-orange)
+![Progress](https://img.shields.io/badge/Progress-8,1%25-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
@@ -238,6 +238,27 @@
 >           </details>
 >
 >      <sub> </sub>
+>
+>        * <details>
+>           <summary> ⚒️ Project Management </summary>
+>    
+>           <sub> </sub>
+>           
+>            * Splitting code into multiple files (modularity and maintainability)  
+>            * Ruby project structure conventions (`lib`, one class per file)  
+>            * `require_relative` vs `require` (internal vs external code loading)  
+>            * Using a main file to load all project files  
+>            * Namespacing with modules (avoiding conflicts)  
+>            * Gems (external Ruby libraries)  
+>            * Installing gems (`gem install`)  
+>            * Dependencies and dependency management  
+>            * Bundler (`bundle init`, `bundle install`)  
+>            * `Gemfile` and `Gemfile.lock`  
+>            * Versioning and constraints (`~>`)  
+>            * `bundle exec` for consistent environments  
+>            * `.ruby-version` for defining Ruby version
+>           
+>           </details>
 >
 >        * <details>
 >           <summary> Next </summary>
