@@ -53,7 +53,7 @@
 ---
 
 ## Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
-![Progress](https://img.shields.io/badge/Progress-8,1%25-orange)
+![Progress](https://img.shields.io/badge/Progress-8,1%25-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 > Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
@@ -139,8 +139,8 @@
 ---
 
 ## Full Stack JavaScript - Repository
-![Progress](https://img.shields.io/badge/Progress-0%25-red)
-![Status](https://img.shields.io/badge/Status-In%20Progress-red)
+![Progress](https://img.shields.io/badge/Progress-0%25-orange)
+![Status](https://img.shields.io/badge/Status-In%20Queued-orange)
 
 > Deep dive into fullstack development using JavaScript, Node.js and React, covering responsive interfaces, dynamic frontends, backend architecture, databases and modern deployment workflows.
 >
