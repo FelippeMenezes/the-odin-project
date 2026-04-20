@@ -1,5 +1,5 @@
 # The Odin Project - Full Stack Ruby on Rails Course
-![Progress](https://img.shields.io/badge/Progress-8,1%25-orange)
+![Progress](https://img.shields.io/badge/Progress-8,1%25-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Ruby%20on%20Rails-red)
 
