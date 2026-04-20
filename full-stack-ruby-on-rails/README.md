@@ -279,7 +279,152 @@
 >    </details>
 > 
 > * <details>
->    <summary> Next </summary>
+>    <summary> Intermediate HTML and CSS </summary>
+> 
+>    <sub></sub>
+> 
+>    * <details>
+>       <summary> Next </summary>
+>    
+>       <sub> </sub>
+>       
+>        * <details>
+>           <summary> 🔢 Next </summary>
+>    
+>           <sub> </sub>
+>           
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           
+>           </details>
+>    
+>    </details>
+>
+> > 
+> * <details>
+>    <summary> Databases </summary>
+> 
+>    <sub></sub>
+> 
+>    * <details>
+>       <summary> Next </summary>
+>    
+>       <sub> </sub>
+>       
+>        * <details>
+>           <summary> 🔢 Next </summary>
+>    
+>           <sub> </sub>
+>           
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           
+>           </details>
+>    
+>    </details>
+>
+> > 
+> * <details>
+>    <summary> Ruby on Rails </summary>
+> 
+>    <sub></sub>
+> 
+>    * <details>
+>       <summary> Next </summary>
+>    
+>       <sub> </sub>
+>       
+>        * <details>
+>           <summary> 🔢 Next </summary>
+>    
+>           <sub> </sub>
+>           
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           
+>           </details>
+>    
+>    </details>
+>
+> > 
+> * <details>
+>    <summary> Advanced HTML and CSS </summary>
+> 
+>    <sub></sub>
+> 
+>    * <details>
+>       <summary> Next </summary>
+>    
+>       <sub> </sub>
+>       
+>        * <details>
+>           <summary> 🔢 Next </summary>
+>    
+>           <sub> </sub>
+>           
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           
+>           </details>
+>    
+>    </details>
+>
+> > 
+> * <details>
+>    <summary> JavaScript </summary>
+> 
+>    <sub></sub>
+> 
+>    * <details>
+>       <summary> Next </summary>
+>    
+>       <sub> </sub>
+>       
+>        * <details>
+>           <summary> 🔢 Next </summary>
+>    
+>           <sub> </sub>
+>           
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           * Next
+>           
+>           </details>
+>    
+>    </details>
+>
+> > 
+> * <details>
+>    <summary> React </summary>
 > 
 >    <sub></sub>
 > 
