@@ -1,11 +1,12 @@
 class Person
   MAX_HEALTH = 120
 
-  def initialize(name, age, health, strength)
+  def initialize(name, age, health, strength, dead)
     @name = name
     @age = age
     @health = health
     @strength = strength
+    @dead = dead
   end
 
   def heal
@@ -14,10 +15,10 @@ class Person
 end
 
 class Viking  < Person
-  attr_accessor :name, :age, :health, :strength, :weapon
+  attr_accessor :name, :age, :health, :strength, :weapon, :dead
 
-  def initialize(name, age, health, strength, weapon)
-    super(name, age, health, strength)
+  def initialize(name, age, health, strength, weapon, dead)
+    super(name, age, health, strength, dead)
     @weapon = weapon
   end
 
@@ -26,7 +27,8 @@ class Viking  < Person
     health = [age * 5, 120].min
     strength = [age / 2, 10].min
     weapon = ["Axe","Sword","Fist"].sample
-    Viking.new(name, health, age, strength, weapon)
+    dead = false
+    Viking.new(name, health, age, strength, weapon, dead)
   end
 
   def self.random_name
@@ -44,13 +46,12 @@ class Viking  < Person
   end
 
   def attack(enemy)
-    # code to fight
-  end
-
-  def take_damage
-    self.health -= damage
-    # @health =-= damage
-    self.shout("OUCH!")
+    if enemy.dead
+      puts "#{enemy.name} is already dead!"
+      return false
+    end
+    damage = (rand * 10 + 10).round(0)
+    enemy.take_damage(damage)
   end
 
   def shout(string)
@@ -65,9 +66,35 @@ class Viking  < Person
     2.times { super }
     puts "Ready for battle!"
   end
+
+  protected
+
+  def take_damage(damage)
+    self.health -= damage
+    # @health =-= damage
+    self.shout("OUCH!")
+    die if @health <= 0
+  end
+
+  private
+
+  def die
+    puts "#{self.name} has been killed :("
+    self.dead = true
+  end
 end
 
 warrior1 = Viking.create_warrior(Viking.random_name)
+warrior2 = Viking.create_warrior(Viking.random_name)
 
 p warrior1
+p warrior2
 
+p warrior2.health
+
+10.times do
+  warrior1.attack(warrior2)
+end
+
+p warrior2.health
+p warrior2
