@@ -222,7 +222,7 @@
 >      <sub> </sub>
 >
 >        * <details>
->           <summary> ☸️ Object Oriented Programming </summary>
+>           <summary> 🧭 Object Oriented Programming </summary>
 >    
 >           <sub> </sub>
 >           
