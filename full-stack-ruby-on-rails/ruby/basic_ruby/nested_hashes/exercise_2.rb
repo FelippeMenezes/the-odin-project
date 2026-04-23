@@ -6,8 +6,6 @@ estoque = [
   { produto: "Webcam",   preco: 200.0, quantidade: 7  }
 ]
 
-# Produtos disponíveis: Teclado, Mouse, Monitor, Webcam
-# 1
 # itens_disponíveis = estoque.select do |item|
 #   item[:quantidade] > 0
 # end
@@ -15,15 +13,16 @@ estoque = [
 #   item[:produto]
 # end
 
-# 2
 # produtos_disponiveis = estoque.select { |item| item[:quantidade] > 0 }.map { |item| item[:produto]}
 
 produtos_disponiveis = estoque
   .select { |item| item[:quantidade] > 0 }
   .map { |item| item[:produto]}
-
 puts "Produtos disponíveis: #{produtos_disponiveis.join(", ")}"
 
-# To do
-# Produto mais caro: Monitor
-# Valor total em estoque: R$ 4420.0
+produto_mais_caro = estoque.max_by { |item| item[:preco]}[:produto]
+puts "Produto mais caro: #{produto_mais_caro}"
+
+
+valor_total_estoque = estoque.sum { |item| item[:preco] * item[:quantidade]}
+puts "Valor total em estoque: R$ #{valor_total_estoque}"

@@ -4,7 +4,7 @@ itens = [
   { nome: "Monitor", preco: 1200.0, quantidade: 2 }
 ]
 
-valor_total_estoque = itens.sum { |item| item[:preco] * item[:quantidade]}
-
+valor_total_estoque = itens
+  .sum { |item| item[:preco] * item[:quantidade]}
 
 puts "Valor total: R$ #{valor_total_estoque}"
