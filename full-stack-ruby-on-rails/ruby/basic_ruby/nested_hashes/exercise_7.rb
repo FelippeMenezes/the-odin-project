@@ -27,7 +27,7 @@ produtos_precificados = [
 produtos_desconto_10 = produtos_precificados.map do |item|
   {
     nome: item[:nome],
-    preco: (item[:preco].to_f * 90) / 100
+    preco: (item[:preco] * 90) / 100
   }
 end
 
