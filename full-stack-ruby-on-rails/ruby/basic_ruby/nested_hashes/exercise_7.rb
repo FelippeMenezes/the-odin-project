@@ -18,20 +18,20 @@
 # nomes_produtos = produtos.map { |produto| produto[:nome]}
 # p nomes_produtos
 
-produtos_precificados = [
-  { nome: "Teclado", preco: 250 },
-  { nome: "Mouse",   preco: 80  },
-  { nome: "Monitor", preco: 1200 }
-]
+# produtos_precificados = [
+#   { nome: "Teclado", preco: 250 },
+#   { nome: "Mouse",   preco: 80  },
+#   { nome: "Monitor", preco: 1200 }
+# ]
 
-produtos_desconto_10 = produtos_precificados.map do |item|
-  {
-    nome: item[:nome],
-    preco: (item[:preco] * 90) / 100
-  }
-end
+# produtos_desconto_10 = produtos_precificados.map do |item|
+#   {
+#     nome: item[:nome],
+#     preco: (item[:preco] * 90) / 100
+#   }
+# end
 
-p produtos_desconto_10
+# p produtos_desconto_10
 
 # pedidos = [
 #   { produto: "Pizza",   valor: 45.0 },
@@ -89,3 +89,16 @@ p produtos_desconto_10
 #   .map { |item| item[:nome] }
 
 # p produtos_disponiveis
+
+times = [
+  { nome: "Backend",  membros: ["Felippe", "Ana"],           lider: "Felippe" },
+  { nome: "Frontend", membros: ["Bruno", "Carla", "Diego"],  lider: "Bruno"   },
+  { nome: "DevOps",   membros: ["Rita"],                     lider: "Rita"    }
+]
+
+strings_formatadas = times.map do |time|
+  time[:membros].length == 1 ? membros = "membro" : membros ="membros"
+  "#{time[:nome]} (#{time[:membros].length} #{membros})-- líder: #{time[:lider]}"
+end
+
+p strings_formatadas
