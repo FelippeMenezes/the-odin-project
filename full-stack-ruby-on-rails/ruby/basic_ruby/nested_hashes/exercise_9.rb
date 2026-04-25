@@ -98,4 +98,46 @@
 
 # puts "Time com maior orçamento: #{maior[:nome]} (R$ #{maior[:orcamento]})"
 
+# funcionarios = [
+#   { nome: "Ana",    salario: 8000,  ativo: true  },
+#   { nome: "Bruno",  salario: 12000, ativo: false },
+#   { nome: "Carla",  salario: 6000,  ativo: true  },
+#   { nome: "Diego",  salario: 9500,  ativo: true  },
+#   { nome: "Eva",    salario: 15000, ativo: false }
+# ]
 
+# funcionarios_ativos = funcionarios.select do |funcionario|
+#   funcionario[:ativo]
+# end
+
+# funcionario_maior_salario = funcionarios_ativos.max_by { |funcionario| funcionario[:salario]}
+
+# puts "Funcionário ativo mais bem pago: #{funcionario_maior_salario[:nome]} (R$ #{funcionario_maior_salario[:salario]})"
+
+relatorio = [
+  {
+    departamento: "Tech",
+    funcionarios: [
+      { nome: "Felippe", salario: 8000,  performance: 9 },
+      { nome: "Ana",     salario: 6000,  performance: 6 },
+      { nome: "Bruno",   salario: 9500,  performance: 8 }
+    ]
+  },
+  {
+    departamento: "Design",
+    funcionarios: [
+      { nome: "Carla", salario: 7000, performance: 8 },
+      { nome: "Diego", salario: 5500, performance: 5 }
+    ]
+  }
+]
+
+# p relatorio[0][:funcionarios][0][:salario]
+
+relatorio.each do |dep|
+  puts dep[:departamento]
+  maior_salario = dep[:funcionarios].max_by { |f| f[:salario] }
+  maior_performance = dep[:funcionarios].max_by { |f| f[:performance]}
+  puts "  Maior salário: #{maior_salario[:nome]} (R$ #{maior_salario[:salario]})"
+  puts "  Maior performance: #{maior_performance[:nome]} (R$ #{maior_performance[:performance]})"
+end
