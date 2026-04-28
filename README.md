@@ -71,6 +71,7 @@
 >
 >    *  Basic Ruby
 >    *  Object Oriented Programming Basics
+>    *  Files and Serialization
 >    *  Next
 >
 > * <details>     
@@ -133,7 +134,8 @@
 >  * 🌐 [Sub Strings](https://github.com/FelippeMenezes/sub-strings-top)
 >  * 🌐 [Stock Picker](https://github.com/FelippeMenezes/stock-picker-top)
 >  * 🌐 [Bubble Sort](https://github.com/FelippeMenezes/bubble-sort-top)
->  * 🌐 [Tic Tac Toe](https://replit.com/@FelippeMenezes/tic-tac-toe-top)
+>  * 🌐 [Tic Tac Toe](https://github.com/FelippeMenezes/tic-tac-toe-top)
+>  * 🌐 [Mastermind](https://github.com/FelippeMenezes/mastermind-top)
 >
 > </details>
 >
