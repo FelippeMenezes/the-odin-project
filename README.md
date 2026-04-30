@@ -53,7 +53,7 @@
 ---
 
 ## Full Stack Ruby on Rails - [Repository](./full-stack-ruby-on-rails)
-![Progress](https://img.shields.io/badge/Progress-10,3%25-yellow)
+![Progress](https://img.shields.io/badge/Progress-10,7%25-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 > Deep dive into fullstack development using Ruby and Ruby on Rails, covering backend architecture, databases, dynamic frontends and scalable web applications.
@@ -72,6 +72,7 @@
 >    *  Basic Ruby
 >    *  Object Oriented Programming Basics
 >    *  Files and Serialization
+>    *  Pattern Matching
 >    *  Next
 >
 > * <details>     
@@ -136,6 +137,7 @@
 >  * 🌐 [Bubble Sort](https://github.com/FelippeMenezes/bubble-sort-top)
 >  * 🌐 [Tic Tac Toe](https://github.com/FelippeMenezes/tic-tac-toe-top)
 >  * 🌐 [Mastermind](https://github.com/FelippeMenezes/mastermind-top)
+>  * 🌐 [Hangman](https://github.com/FelippeMenezes/hangman-top)
 >
 > </details>
 >
