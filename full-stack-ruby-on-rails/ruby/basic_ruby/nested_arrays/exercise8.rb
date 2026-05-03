@@ -1,7 +1,6 @@
 idades = [14, 23, 17, 31, 16, 45, 12]
 
 menores18 = idades.reject { |idade| idade >= 18 }
-
 p menores18
 
 produtos = [
@@ -13,7 +12,6 @@ produtos = [
 ]
 
 produtos_estoque = produtos.reject { |produto| produto[:estoque] <= 0 }
-
 p produtos_estoque
 
 produtos = [
@@ -25,7 +23,6 @@ produtos = [
 ]
 
 produtos_estoque_upcase = produtos.reject { |produto| produto[:estoque] <= 0 }.map { |produto| produto[:nome].upcase }
-
 p produtos_estoque_upcase
 
 pedidos = [
@@ -38,7 +35,6 @@ pedidos = [
 ]
 
 total_pedidos_nao_pagos = pedidos.reject { |pedido| pedido[:status] == "pago"}.sum { |pedido| pedido[:valor] }
-
 p total_pedidos_nao_pagos
 
 pedidos = [
@@ -54,5 +50,4 @@ pedidos_nao_pagos_mais_de_um_item = pedidos.reject { |pedido| pedido[:status] ==
   plural_singular = pedido[:itens] == 1 ? "item" : "itens"
   "[#{pedido[:status].upcase}] #{pedido[:cliente]} — R$ #{pedido[:valor]} (#{pedido[:itens]} #{plural_singular})"
 end
-
 p pedidos_nao_pagos_mais_de_um_item
