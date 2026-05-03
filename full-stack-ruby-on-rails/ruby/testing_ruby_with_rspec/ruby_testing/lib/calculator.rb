@@ -10,4 +10,8 @@ class Calculator
   def subtract(*numbers)
     numbers.reduce(:-)
   end
+
+  def divide(*numbers)
+    numbers.reduce(:/)
+  end
 end
