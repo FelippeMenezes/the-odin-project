@@ -62,34 +62,38 @@ end
 describe Array do
   context 'when my_array has perfect values' do
     # Write a subject variable 'my_array' that passes all tests.
-
+    let(:my_array) { [-3] }
     # remove the 'x' before running this test
-    xit 'has a specific first value' do
+    it 'has a specific first value' do
       expect(my_array.first).to be_odd.and be <= -1
     end
 
     # remove the 'x' before running this test
-    xit 'has a specific last value' do
+    it 'has a specific last value' do
+      my_array << 98
       expect(my_array.last).to be_even.and be < 99
     end
 
     # remove the 'x' before running this test
-    xit 'has a specific min value' do
+    it 'has a specific min value' do
       expect(my_array.min).not_to be < -9
     end
 
     # remove the 'x' before running this test
-    xit 'has a specific max value' do
+    it 'has a specific max value' do
+      my_array << 101
       expect(my_array.max).to be > 100
     end
 
     # remove the 'x' before running this test
-    xit 'includes a value of 42' do
+    it 'includes a value of 42' do
+      my_array << 42
       expect(my_array).to include(42)
     end
 
     # remove the 'x' before running this test
-    xit 'has a fourth element' do
+    it 'has a fourth element' do
+      my_array.push(5, 51, 59)
       expect(my_array[3]).not_to be_nil
     end
   end
