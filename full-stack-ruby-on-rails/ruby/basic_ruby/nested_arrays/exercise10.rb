@@ -22,3 +22,8 @@ clientes    = ["Ana", "Bob", "Carol", "Davi"]
 compras     = [320.0, 85.0, 540.0, 210.0]
 fidelidade  = [true, false, true, false]
 
+descontos = clientes.zip(compras, fidelidade).each_with_object({}) do |cliente, final_hash|
+  cliente[1] > 300 && cliente[2] ? final_hash[cliente[0]] = (cliente[1] * 85)/100 : final_hash[cliente[0]] = cliente[1]
+end
+
+p descontos
