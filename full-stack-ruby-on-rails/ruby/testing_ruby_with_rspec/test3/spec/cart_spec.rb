@@ -20,7 +20,7 @@ RSpec.describe Cart do
   end
 
   describe '#total' do
-    it 'verifify total of items in cart' do
+    it 'verifify total price of items in cart' do
       cart.add(product1)
       cart.add(product2)
       expect(cart.total).to eq(110)
