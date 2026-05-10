@@ -1,74 +1,74 @@
-# palavras = ["gato", "cão", "gato", "peixe", "cão", "gato"]
+palavras = ["gato", "cão", "gato", "peixe", "cão", "gato"]
 
-# def quantidade_palavras(words)
-#   words_count = words.reduce({}) do |hash, word|
-#     hash[word] ||= 0
-#     hash[word] += 1
-#     hash
-#   end
-#   p words_count
-# end
+def quantidade_palavras(words)
+  words_count = words.reduce({}) do |hash, word|
+    hash[word] ||= 0
+    hash[word] += 1
+    hash
+  end
+  p words_count
+end
 
-# quantidade_palavras(palavras)
+quantidade_palavras(palavras)
 
-# compras = [
-#   { produto: "banana", categoria: "fruta" },
-#   { produto: "maçã",   categoria: "fruta" },
-#   { produto: "leite",  categoria: "laticínio" },
-#   { produto: "queijo", categoria: "laticínio" },
-#   { produto: "uva",    categoria: "fruta" }
-# ]
+compras = [
+  { produto: "banana", categoria: "fruta" },
+  { produto: "maçã",   categoria: "fruta" },
+  { produto: "leite",  categoria: "laticínio" },
+  { produto: "queijo", categoria: "laticínio" },
+  { produto: "uva",    categoria: "fruta" }
+]
 
-# def produto_por_categoria(list)
-#   final_hash = list.reduce({}) do |hash, item|
-#     hash[item[:categoria]] ||= []
-#     hash[item[:categoria]] << item[:produto]
-#     hash
-#   end
-#   p final_hash
-# end
+def produto_por_categoria(list)
+  final_hash = list.reduce({}) do |hash, item|
+    hash[item[:categoria]] ||= []
+    hash[item[:categoria]] << item[:produto]
+    hash
+  end
+  p final_hash
+end
 
-# produto_por_categoria(compras)
+produto_por_categoria(compras)
 
-# vendas = [
-#   { vendedor: "Ana",   valor: 200 },
-#   { vendedor: "Bruno", valor: 150 },
-#   { vendedor: "Ana",   valor: 350 },
-#   { vendedor: "Bruno", valor: 100 },
-#   { vendedor: "Ana",   valor: 50  }
-# ]
+vendas = [
+  { vendedor: "Ana",   valor: 200 },
+  { vendedor: "Bruno", valor: 150 },
+  { vendedor: "Ana",   valor: 350 },
+  { vendedor: "Bruno", valor: 100 },
+  { vendedor: "Ana",   valor: 50  }
+]
 
-# def total_por_vendedor(sales)
-#   total_sales = sales.reduce({}) do |hash, sale|
-#     hash[sale[:vendedor]] ||= { total: 0 , vendas: 0}
-#     hash[sale[:vendedor]][:total] += sale[:valor]
-#     hash[sale[:vendedor]][:vendas] += 1
-#     hash
-#   end
-#   p total_sales
-# end
+def total_por_vendedor(sales)
+  total_sales = sales.reduce({}) do |hash, sale|
+    hash[sale[:vendedor]] ||= { total: 0 , vendas: 0}
+    hash[sale[:vendedor]][:total] += sale[:valor]
+    hash[sale[:vendedor]][:vendas] += 1
+    hash
+  end
+  p total_sales
+end
 
-# total_por_vendedor(vendas)
+total_por_vendedor(vendas)
 
-# pedidos = [
-#   { cliente: "Carlos", produto: "notebook", valor: 3200, status: "pago" },
-#   { cliente: "Diana",  produto: "mouse",    valor: 120,  status: "pago" },
-#   { cliente: "Carlos", produto: "teclado",  valor: 280,  status: "cancelado" },
-#   { cliente: "Diana",  produto: "monitor",  valor: 1500, status: "pago" },
-#   { cliente: "Carlos", produto: "headset",  valor: 450,  status: "pago" }
-# ]
+pedidos = [
+  { cliente: "Carlos", produto: "notebook", valor: 3200, status: "pago" },
+  { cliente: "Diana",  produto: "mouse",    valor: 120,  status: "pago" },
+  { cliente: "Carlos", produto: "teclado",  valor: 280,  status: "cancelado" },
+  { cliente: "Diana",  produto: "monitor",  valor: 1500, status: "pago" },
+  { cliente: "Carlos", produto: "headset",  valor: 450,  status: "pago" }
+]
 
-# def total_gasto_pago(orders)
-#   total_payed = orders.reduce({}) do |hash, order|
-#     next hash if order[:status] =="cancelado"
-#     hash[order[:cliente]] ||= 0
-#     hash[order[:cliente]] += order[:valor]
-#     hash
-#   end
-#   p total_payed
-# end
+def total_gasto_pago(orders)
+  total_payed = orders.reduce({}) do |hash, order|
+    next hash if order[:status] =="cancelado"
+    hash[order[:cliente]] ||= 0
+    hash[order[:cliente]] += order[:valor]
+    hash
+  end
+  p total_payed
+end
 
-# total_gasto_pago(pedidos)
+total_gasto_pago(pedidos)
 
 estoque = {
   "notebook" => { quantidade: 5,  preco: 3200 },
