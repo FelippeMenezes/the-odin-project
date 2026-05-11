@@ -6,7 +6,7 @@ RSpec.describe Order do
 
   describe '#checkout' do
     context 'quando o payment_gateway é true' do
-      before { allow(payment_gateway).to receive(:charge).and_return(true)}
+      before { allow(payment_gateway).to receive(:charge).and_return(false)}
       it 'retorna "Pedido aprovado"' do
         expect(subject.checkout(100)). to eq('Pedido confirmado')
       end
