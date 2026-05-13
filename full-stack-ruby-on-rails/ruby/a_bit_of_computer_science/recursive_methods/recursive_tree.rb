@@ -28,13 +28,11 @@ end
 
 print_children_recursive(tree)
 
-
 def print_children_iterative(tree)
   stack = tree[:children]
 
   until stack.empty?
     current = stack.pop
-
     puts current[:name]
 
     stack.concat(current[:children].reverse)
