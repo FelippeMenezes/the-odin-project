@@ -7,4 +7,15 @@ def total_integers(array)
   # NOTE: you may notice that `Array#flatten` would make quick work of this,
   # but you should implement this method without using it. The tests will check
   # to make sure `#flatten` isn't used.
+
+  array.sum do |e|
+    case e
+    when Integer
+      1
+    when Array
+      total_integers(e)
+    else
+      0
+    end
+  end
 end
