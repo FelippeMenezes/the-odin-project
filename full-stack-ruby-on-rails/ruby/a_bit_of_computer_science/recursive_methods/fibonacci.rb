@@ -6,4 +6,3 @@ def fibonacci(number)
   end
 end
 
-p fibonacci(25)
