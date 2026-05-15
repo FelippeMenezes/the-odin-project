@@ -141,6 +141,7 @@
 >  * 🌐 [Hangman](https://github.com/FelippeMenezes/hangman-top)
 >  * 🌐 [Custon Enumerables](https://github.com/FelippeMenezes/custom-enumerables-top)
 >  * 🌐 [Connect Four](https://github.com/FelippeMenezes/connect-four-top)
+>  * 🌐 [Recursion](https://github.com/FelippeMenezes/recursion-top)
 >
 > </details>
 >
