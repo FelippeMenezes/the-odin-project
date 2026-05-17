@@ -5,5 +5,4 @@ def count_up_recursive(number)
 end
 
 count_up_recursive(-2)
-count_up_recursive(0)
 count_up_recursive(2)
