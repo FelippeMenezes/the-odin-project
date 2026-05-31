@@ -43,7 +43,7 @@ p vendedor_maior_media_vendas = vendedores.max_by { |vendedor| vendedor[:vendas]
 
 times = [
   { nome: "Flamengo",   pontos: 78, saldo_gols: 35,  jogos: 38 },
-  { nome: "Palmeiras",  pontos: 78, saldo_gols: 28,  jogos: 38 },
+  { nome: "Palmeiras",  pontos: 75, saldo_gols: 28,  jogos: 38 },
   { nome: "Grêmio",     pontos: 72, saldo_gols: 18,  jogos: 38 },
   { nome: "Athletico",  pontos: 65, saldo_gols: 10,  jogos: 38 },
   { nome: "Fortaleza",  pontos: 60, saldo_gols: 22,  jogos: 38 },
